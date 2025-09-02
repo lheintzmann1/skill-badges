@@ -1,0 +1,15 @@
+<svg width="106" height="30" viewBox="0 0 106 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="106" height="30" rx="15" fill="#00BC7F"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M64 0 8.569 31.984v64.013L64 128l55.431-32.003V31.984Zm24.697 70.393L73.924 78.9 56.08 69.212v20.424l-16.776 10.615V57.605l13.308-8.146 18.467 9.734V38.4l17.628-10.584Z"/>
+  </g>
+  
+  <text x="69.0" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Nomad</text>
+</svg>

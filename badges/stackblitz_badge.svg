@@ -1,0 +1,15 @@
+<svg width="148" height="30" viewBox="0 0 148 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="148" height="30" rx="15" fill="#1389FD"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M20 75.294h37.877L35.597 128 108 52.706H70.123L92.403 0 20 75.294Z"/>
+  </g>
+  
+  <text x="90.0" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">StackBlitz</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="114" height="30" viewBox="0 0 114 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="114" height="30" rx="15" fill="#150458"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M46.236 7.567h13.99v29.047h-13.99Zm0 59.668h13.99V96.28h-13.99Z"/><path d="M46.236 45.092h13.99v13.705h-13.99Z"/><path d="M23.763 31.446h13.989V128h-13.99ZM68.245 91.2h13.99v29.046h-13.99Zm0-59.72h13.99v29.047h-13.99Z"/><path d="M68.245 69.011h13.99v13.705h-13.99Z"/><path d="M90.248 0h13.99v96.554h-13.99Z"/>
+  </g>
+  
+  <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">pandas</text>
+</svg>

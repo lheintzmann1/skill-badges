@@ -1,0 +1,15 @@
+<svg width="139" height="30" viewBox="0 0 139 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="139" height="30" rx="15" fill="#C21325"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M76.516 82 39.734 65.508l36.782-16.383ZM128 0v128H0V0Zm-25.094 28.727L30.25 61.59l-8.57 3.96 8.57 3.673 72.656 32.867v-8.348L83.836 85.2V45.93l19.07-8.456Zm0 0"/>
+  </g>
+  
+  <text x="85.80000000000001" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Aerospike</text>
+</svg>

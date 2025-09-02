@@ -1,0 +1,15 @@
+<svg width="131" height="30" viewBox="0 0 131 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="131" height="30" rx="15" fill="#FD366E"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M56.305 7.568c-25.833 0-47.611 17.355-54.309 41.042A55.717 55.717 0 0 0 0 60.187v7.628a56.083 56.083 0 0 0 7.421 24.402c9.758 16.868 27.996 28.215 48.884 28.215H128V92.217H56.305a28.104 28.104 0 0 1-19.363-7.696c-5.453-5.143-8.855-12.432-8.855-20.52 0-2.668.37-5.248 1.063-7.696.78-2.76 1.97-5.348 3.503-7.695 5.033-7.722 13.746-12.827 23.652-12.827 9.907 0 18.617 5.105 23.65 12.827h30.655C103.913 24.923 82.14 7.568 56.305 7.568ZM83.46 56.305a28.22 28.22 0 0 1 1.062 7.696c0 8.088-3.401 15.377-8.855 20.52H128V56.305Z"/>
+  </g>
+  
+  <text x="81.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Appwrite</text>
+</svg>

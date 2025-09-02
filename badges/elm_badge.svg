@@ -1,0 +1,15 @@
+<svg width="89" height="30" viewBox="0 0 89 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="89" height="30" rx="15" fill="#1293D8"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M64 60.74l25.65-25.65h-51.3L64 60.74z"/><path d="M7.91 4.65l25.83 25.84h56.17L64.07 4.65H7.91zM67.263 63.993l28.08-28.08 27.951 27.953-28.08 28.079z"/><path d="M123.35 57.42V4.65H70.58l52.77 52.77z"/><path d="M60.74 64L4.65 7.91V120.1L60.74 64z"/><path d="M98.47 95.21l24.88 24.89V70.33L98.47 95.21z"/><path d="M64 67.26L7.91 123.35h112.18L64 67.26z"/>
+  </g>
+  
+  <text x="60.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Elm</text>
+</svg>

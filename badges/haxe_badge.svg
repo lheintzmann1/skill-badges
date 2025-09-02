@@ -1,0 +1,15 @@
+<svg width="97" height="30" viewBox="0 0 97 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="97" height="30" rx="15" fill="#DF7900"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M0 0h32.3L64 16 96.3 0H128v32.6L111.8 64 128 95.8V128H95.2L64 112.1 32.6 128H0V94.7L15.7 64 0 31.8z"/>
+  </g>
+  
+  <text x="64.8" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Haxe</text>
+</svg>

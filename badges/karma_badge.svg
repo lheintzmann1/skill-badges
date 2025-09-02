@@ -1,0 +1,15 @@
+<svg width="106" height="30" viewBox="0 0 106 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="106" height="30" rx="15" fill="#56C5A8"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M77.281 89.582l19.625 37.84h31.02l-35.153-67.14-15.492 29.3m-62.535 20.29l14.367-17.497 22.973 35.047-14.746-70.3-12.45 26.472-10.144 26.277"/><path d="M14.746 109.871L37.34 57.117 22.977 74.625 0 39.575l14.746 70.296M124.97.391h-31.02l-19 36.285V.39H46.492v37.632l15.172 72.282 3.535 17.117h9.75V95.664L124.97.391"/>
+  </g>
+  
+  <text x="69.0" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Karma</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="122" height="30" viewBox="0 0 122 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="122" height="30" rx="15" fill="#1867C0"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M65.3 34.414 40.84 76.79 64 116.926l30.672-53.13 30.66-53.128H79Zm0 0"/>
+    <path d="m33.34 63.797 1.605 2.793 22.88-39.649 9.402-16.273H2.668Zm0 0"/>
+    <path d="M79 10.668C90.594 48.82 64 116.926 64 116.926L40.84 76.789Zm0 0"/>
+    <path d="M67.227 10.668c-48.844 0-32.282 55.922-32.282 55.922Zm0 0"/>
+  </g>
+  
+  <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Vuetify</text>
+</svg>

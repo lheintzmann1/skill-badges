@@ -1,0 +1,27 @@
+{
+  "functions": {
+    "api/s.py": {
+      "runtime": "python3.9"
+    },
+    "api/d.py": {
+      "runtime": "python3.9"
+    },
+    "api/list.py": {
+      "runtime": "python3.9"
+    }
+  },
+  "routes": [
+    {
+      "src": "/api/s",
+      "dest": "/api/s.py"
+    },
+    {
+      "src": "/api/d",
+      "dest": "/api/d.py"
+    },
+    {
+      "src": "/api/list",
+      "dest": "/api/list.py"
+    }
+  ]
+}

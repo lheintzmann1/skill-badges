@@ -1,0 +1,15 @@
+<svg width="114" height="30" viewBox="0 0 114 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="114" height="30" rx="15" fill="#005A9C"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="m.0957 23.7617 46.4648 80.4766L69.793 64l23.2304-40.2383H.0957zM69.793 64l23.2324 40.2383L116.2559 64l11.6484-20.1191-11.6504-20.1192-11.6133 20.1172-11.6152-20.1172L69.793 64z"/>
+  </g>
+  
+  <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">WebGPU</text>
+</svg>

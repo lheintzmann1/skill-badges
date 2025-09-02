@@ -1,0 +1,15 @@
+<svg width="156" height="30" viewBox="0 0 156 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="156" height="30" rx="15" fill="#35495E"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="m0 8.574 64 110.852L128 8.574h-21.408l-10.705 18.54L64 82.343l-31.887-55.23h21.979L64 44.27l9.908-17.158L84.611 8.574H0z"/>
+  </g>
+  
+  <text x="94.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">VeeValidate</text>
+</svg>

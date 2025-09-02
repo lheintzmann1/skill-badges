@@ -1,0 +1,15 @@
+<svg width="97" height="30" viewBox="0 0 97 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="97" height="30" rx="15" fill="#199BFC"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M125.84 0H2.16v100.305h53l9.137 8.542v-.138L85.147 128v-27.695h40.693V0Zm-21.402 77.067h-22.41l-45.243-42.3v42.3H21.951V23.332h23.194l44.504 41.515V23.332h14.79v53.735Z"/>
+  </g>
+  
+  <text x="64.8" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">NATS</text>
+</svg>

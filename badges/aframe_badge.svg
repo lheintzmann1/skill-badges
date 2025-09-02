@@ -1,0 +1,15 @@
+<svg width="122" height="30" viewBox="0 0 122 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="122" height="30" rx="15" fill="#EF2D5E"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M0 0v128h128V0H0zm57.016 16.002H67.47l31.787 95.5h-8.783l-8.366-26.07H41.96l-8.365 26.07H25.09l31.926-95.5zm5.158 6.832L44.189 78.32h35.69L62.174 22.834z"/>
+  </g>
+  
+  <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">A-Frame</text>
+</svg>

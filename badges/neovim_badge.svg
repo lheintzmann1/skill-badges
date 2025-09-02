@@ -1,0 +1,15 @@
+<svg width="114" height="30" viewBox="0 0 114 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="114" height="30" rx="15" fill="#57A143"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M88.963 0v70.438l22.906 34.445 4.658-5.059-.185-72.312zM38.97.008 19.283 19.895l70.26 106.918 19.65-19.65ZM16.615 21.855l-5.142 5.192v72.988L39.496 128V55.93Zm-.152 1.592 22.02 32.791v69.32L12.487 99.616V27.463Z" />
+  </g>
+  
+  <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Neovim</text>
+</svg>

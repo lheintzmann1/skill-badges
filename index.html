@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skill Badges API</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .api-example {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 5px;
+            font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+            font-size: 14px;
+            margin: 10px 0;
+        }
+        .badge-grid {
+            margin: 20px 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Skill Badges API</h1>
+    <p>Generate badge grids for your skills and technologies</p>
+
+    <h2>Usage</h2>
+    <div class="api-example">GET /api/s?c=python,javascript,react&perline=3</div>
+    <div class="badge-grid">
+        <img src="/api/s?c=python,javascript,react,nodejs" alt="Example badges" />
+    </div>
+
+    <h2>Parameters</h2>
+    <ul>
+        <li><code>c</code> - Comma-separated technology names</li>
+        <li><code>perline</code> - Number of badges per line (default: 4)</li>
+    </ul>
+
+    <h2>Endpoints</h2>
+    <ul>
+        <li><code>/api/s</code> - Static badges</li>
+        <li><code>/api/d</code> - Dynamic badges</li>
+        <li><code>/api/list</code> - List all available badges</li>
+    </ul>
+
+    <h2>Markdown</h2>
+    <div class="api-example">![Skills](https://skill-badges.vercel.app/api/s?c=python,react,docker)</div>
+</body>
+</html>

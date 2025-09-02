@@ -1,0 +1,2899 @@
+{
+  "badges": [
+    {
+      "filename": "aarch64",
+      "displayName": "ARM64",
+      "color": "#00D4AA"
+    },
+    {
+      "filename": "adonisjs",
+      "displayName": "AdonisJS",
+      "color": "#5A45FF"
+    },
+    {
+      "filename": "aerospike",
+      "displayName": "Aerospike",
+      "color": "#C21325"
+    },
+    {
+      "filename": "aframe",
+      "displayName": "A-Frame",
+      "color": "#EF2D5E"
+    },
+    {
+      "filename": "aftereffects",
+      "displayName": "After Effects",
+      "color": "#9999FF"
+    },
+    {
+      "filename": "akka",
+      "displayName": "Akka",
+      "color": "#3FC8F2"
+    },
+    {
+      "filename": "algolia",
+      "displayName": "Algolia",
+      "color": "#5468FF"
+    },
+    {
+      "filename": "almalinux",
+      "displayName": "AlmaLinux",
+      "color": "#0F4266"
+    },
+    {
+      "filename": "alpinejs",
+      "displayName": "Alpine.js",
+      "color": "#77C1D2"
+    },
+    {
+      "filename": "anaconda",
+      "displayName": "Anaconda",
+      "color": "#44A833"
+    },
+    {
+      "filename": "android",
+      "displayName": "Android",
+      "color": "#3DDC84"
+    },
+    {
+      "filename": "androidstudio",
+      "displayName": "Android Studio",
+      "color": "#3DDC84"
+    },
+    {
+      "filename": "angular",
+      "displayName": "Angular",
+      "color": "#DD0031"
+    },
+    {
+      "filename": "angularjs",
+      "displayName": "AngularJS",
+      "color": "#E23237"
+    },
+    {
+      "filename": "angularmaterial",
+      "displayName": "Angular Material",
+      "color": "#757575"
+    },
+    {
+      "filename": "ansible",
+      "displayName": "Ansible",
+      "color": "#EE0000"
+    },
+    {
+      "filename": "ansys",
+      "displayName": "ANSYS",
+      "color": "#FFB71B"
+    },
+    {
+      "filename": "antdesign",
+      "displayName": "Ant Design",
+      "color": "#0170FE"
+    },
+    {
+      "filename": "apache",
+      "displayName": "Apache",
+      "color": "#D22128"
+    },
+    {
+      "filename": "apacheairflow",
+      "displayName": "Apache Airflow",
+      "color": "#017CEE"
+    },
+    {
+      "filename": "apachekafka",
+      "displayName": "Apache Kafka",
+      "color": "#231F20"
+    },
+    {
+      "filename": "apachespark",
+      "displayName": "Apache Spark",
+      "color": "#E25A1C"
+    },
+    {
+      "filename": "apex",
+      "displayName": "Apex",
+      "color": "#1797C0"
+    },
+    {
+      "filename": "apl",
+      "displayName": "APL",
+      "color": "#5A8164"
+    },
+    {
+      "filename": "apollographql",
+      "displayName": "Apollo GraphQL",
+      "color": "#311C87"
+    },
+    {
+      "filename": "appcelerator",
+      "displayName": "Appcelerator",
+      "color": "#AC162C"
+    },
+    {
+      "filename": "apple",
+      "displayName": "Apple",
+      "color": "#000000"
+    },
+    {
+      "filename": "appwrite",
+      "displayName": "Appwrite",
+      "color": "#FD366E"
+    },
+    {
+      "filename": "archlinux",
+      "displayName": "Arch Linux",
+      "color": "#1793D1"
+    },
+    {
+      "filename": "arduino",
+      "displayName": "Arduino",
+      "color": "#00979D"
+    },
+    {
+      "filename": "argocd",
+      "displayName": "Argo CD",
+      "color": "#EF7B4D"
+    },
+    {
+      "filename": "artixlinux",
+      "displayName": "Artix Linux",
+      "color": "#10A0CC"
+    },
+    {
+      "filename": "astro",
+      "displayName": "Astro",
+      "color": "#FF5D01"
+    },
+    {
+      "filename": "atom",
+      "displayName": "Atom",
+      "color": "#66595C"
+    },
+    {
+      "filename": "awk",
+      "displayName": "AWK",
+      "color": "#3E474A"
+    },
+    {
+      "filename": "aws",
+      "displayName": "AWS",
+      "color": "#FF9900"
+    },
+    {
+      "filename": "axios",
+      "displayName": "Axios",
+      "color": "#5A29E4"
+    },
+    {
+      "filename": "azure",
+      "displayName": "Azure",
+      "color": "#0078D4"
+    },
+    {
+      "filename": "azuredevops",
+      "displayName": "Azure DevOps",
+      "color": "#0078D7"
+    },
+    {
+      "filename": "azuresqldatabase",
+      "displayName": "Azure SQL",
+      "color": "#0078D4"
+    },
+    {
+      "filename": "babel",
+      "displayName": "Babel",
+      "color": "#F9DC3E"
+    },
+    {
+      "filename": "babylonjs",
+      "displayName": "Babylon.js",
+      "color": "#BB464B"
+    },
+    {
+      "filename": "backbonejs",
+      "displayName": "Backbone.js",
+      "color": "#0071B5"
+    },
+    {
+      "filename": "ballerina",
+      "displayName": "Ballerina",
+      "color": "#FF5000"
+    },
+    {
+      "filename": "bamboo",
+      "displayName": "Bamboo",
+      "color": "#0052CC"
+    },
+    {
+      "filename": "bash",
+      "displayName": "Bash",
+      "color": "#4EAA25"
+    },
+    {
+      "filename": "bazel",
+      "displayName": "Bazel",
+      "color": "#76D275"
+    },
+    {
+      "filename": "beats",
+      "displayName": "Beats",
+      "color": "#005571"
+    },
+    {
+      "filename": "behance",
+      "displayName": "Behance",
+      "color": "#1769FF"
+    },
+    {
+      "filename": "bevyengine",
+      "displayName": "Bevy",
+      "color": "#232326"
+    },
+    {
+      "filename": "biome",
+      "displayName": "Biome",
+      "color": "#60A5FA"
+    },
+    {
+      "filename": "bitbucket",
+      "displayName": "Bitbucket",
+      "color": "#0052CC"
+    },
+    {
+      "filename": "blazor",
+      "displayName": "Blazor",
+      "color": "#512BD4"
+    },
+    {
+      "filename": "blender",
+      "displayName": "Blender",
+      "color": "#F5792A"
+    },
+    {
+      "filename": "bootstrap",
+      "displayName": "Bootstrap",
+      "color": "#7952B3"
+    },
+    {
+      "filename": "bower",
+      "displayName": "Bower",
+      "color": "#EF5734"
+    },
+    {
+      "filename": "browserstack",
+      "displayName": "BrowserStack",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "bulma",
+      "displayName": "Bulma",
+      "color": "#00D1B2"
+    },
+    {
+      "filename": "bun",
+      "displayName": "Bun",
+      "color": "#000000"
+    },
+    {
+      "filename": "c",
+      "displayName": "C",
+      "color": "#A8B9CC"
+    },
+    {
+      "filename": "cairo",
+      "displayName": "Cairo",
+      "color": "#FF4A00"
+    },
+    {
+      "filename": "cakephp",
+      "displayName": "CakePHP",
+      "color": "#D33C43"
+    },
+    {
+      "filename": "canva",
+      "displayName": "Canva",
+      "color": "#00C4CC"
+    },
+    {
+      "filename": "capacitor",
+      "displayName": "Capacitor",
+      "color": "#119EFF"
+    },
+    {
+      "filename": "carbon",
+      "displayName": "Carbon",
+      "color": "#161616"
+    },
+    {
+      "filename": "cassandra",
+      "displayName": "Cassandra",
+      "color": "#1287B1"
+    },
+    {
+      "filename": "centos",
+      "displayName": "CentOS",
+      "color": "#262577"
+    },
+    {
+      "filename": "ceylon",
+      "displayName": "Ceylon",
+      "color": "#AD732A"
+    },
+    {
+      "filename": "chakraui",
+      "displayName": "Chakra UI",
+      "color": "#319795"
+    },
+    {
+      "filename": "chartjs",
+      "displayName": "Chart.js",
+      "color": "#FF6384"
+    },
+    {
+      "filename": "chrome",
+      "displayName": "Chrome",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "circleci",
+      "displayName": "CircleCI",
+      "color": "#343434"
+    },
+    {
+      "filename": "clarity",
+      "displayName": "Clarity",
+      "color": "#0065AB"
+    },
+    {
+      "filename": "clickhouse",
+      "displayName": "ClickHouse",
+      "color": "#FFCC02"
+    },
+    {
+      "filename": "clion",
+      "displayName": "CLion",
+      "color": "#000000"
+    },
+    {
+      "filename": "clojure",
+      "displayName": "Clojure",
+      "color": "#5881D8"
+    },
+    {
+      "filename": "clojurescript",
+      "displayName": "ClojureScript",
+      "color": "#96CA4B"
+    },
+    {
+      "filename": "cloudflare",
+      "displayName": "Cloudflare",
+      "color": "#F38020"
+    },
+    {
+      "filename": "cloudflareworkers",
+      "displayName": "Cloudflare Workers",
+      "color": "#F38020"
+    },
+    {
+      "filename": "cloudrun",
+      "displayName": "Cloud Run",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "cmake",
+      "displayName": "CMake",
+      "color": "#064F8C"
+    },
+    {
+      "filename": "cobol",
+      "displayName": "COBOL",
+      "color": "#005CA5"
+    },
+    {
+      "filename": "codeac",
+      "displayName": "Codeac",
+      "color": "#F77B00"
+    },
+    {
+      "filename": "codecov",
+      "displayName": "Codecov",
+      "color": "#F01F7A"
+    },
+    {
+      "filename": "codeigniter",
+      "displayName": "CodeIgniter",
+      "color": "#EF4223"
+    },
+    {
+      "filename": "codepen",
+      "displayName": "CodePen",
+      "color": "#000000"
+    },
+    {
+      "filename": "coffeescript",
+      "displayName": "CoffeeScript",
+      "color": "#244776"
+    },
+    {
+      "filename": "composer",
+      "displayName": "Composer",
+      "color": "#885630"
+    },
+    {
+      "filename": "confluence",
+      "displayName": "Confluence",
+      "color": "#172B4D"
+    },
+    {
+      "filename": "consul",
+      "displayName": "Consul",
+      "color": "#F24C53"
+    },
+    {
+      "filename": "contao",
+      "displayName": "Contao",
+      "color": "#F47C00"
+    },
+    {
+      "filename": "corejs",
+      "displayName": "Core-js",
+      "color": "#F7DF1E"
+    },
+    {
+      "filename": "cosmosdb",
+      "displayName": "Cosmos DB",
+      "color": "#0078D4"
+    },
+    {
+      "filename": "couchbase",
+      "displayName": "Couchbase",
+      "color": "#EA2328"
+    },
+    {
+      "filename": "couchdb",
+      "displayName": "CouchDB",
+      "color": "#E42528"
+    },
+    {
+      "filename": "cpanel",
+      "displayName": "cPanel",
+      "color": "#FF6C2C"
+    },
+    {
+      "filename": "cplusplus",
+      "displayName": "C++",
+      "color": "#00599C"
+    },
+    {
+      "filename": "crystal",
+      "displayName": "Crystal",
+      "color": "#000000"
+    },
+    {
+      "filename": "csharp",
+      "displayName": "C#",
+      "color": "#512BD4"
+    },
+    {
+      "filename": "css3",
+      "displayName": "CSS3",
+      "color": "#1572B6"
+    },
+    {
+      "filename": "cucumber",
+      "displayName": "Cucumber",
+      "color": "#00A818"
+    },
+    {
+      "filename": "cypressio",
+      "displayName": "Cypress",
+      "color": "#69D3A7"
+    },
+    {
+      "filename": "d3js",
+      "displayName": "D3.js",
+      "color": "#F9A03C"
+    },
+    {
+      "filename": "dart",
+      "displayName": "Dart",
+      "color": "#0175C2"
+    },
+    {
+      "filename": "datadog",
+      "displayName": "Datadog",
+      "color": "#632CA6"
+    },
+    {
+      "filename": "datagrip",
+      "displayName": "DataGrip",
+      "color": "#000000"
+    },
+    {
+      "filename": "dataspell",
+      "displayName": "DataSpell",
+      "color": "#000000"
+    },
+    {
+      "filename": "datatables",
+      "displayName": "DataTables",
+      "color": "#1B2D3A"
+    },
+    {
+      "filename": "dbeaver",
+      "displayName": "DBeaver",
+      "color": "#382923"
+    },
+    {
+      "filename": "debian",
+      "displayName": "Debian",
+      "color": "#A81D33"
+    },
+    {
+      "filename": "delphi",
+      "displayName": "Delphi",
+      "color": "#EE1F35"
+    },
+    {
+      "filename": "denojs",
+      "displayName": "Deno",
+      "color": "#000000"
+    },
+    {
+      "filename": "detaspace",
+      "displayName": "Deta",
+      "color": "#EE46BC"
+    },
+    {
+      "filename": "devicon",
+      "displayName": "Devicon",
+      "color": "#60BE86"
+    },
+    {
+      "filename": "digitalocean",
+      "displayName": "DigitalOcean",
+      "color": "#0080FF"
+    },
+    {
+      "filename": "discloud",
+      "displayName": "DisCloud",
+      "color": "#5865F2"
+    },
+    {
+      "filename": "discordjs",
+      "displayName": "Discord.js",
+      "color": "#5865F2"
+    },
+    {
+      "filename": "django",
+      "displayName": "Django",
+      "color": "#092E20"
+    },
+    {
+      "filename": "djangorest",
+      "displayName": "Django REST",
+      "color": "#A30000"
+    },
+    {
+      "filename": "docker",
+      "displayName": "Docker",
+      "color": "#2496ED"
+    },
+    {
+      "filename": "doctrine",
+      "displayName": "Doctrine",
+      "color": "#FC6A31"
+    },
+    {
+      "filename": "dot-net",
+      "displayName": ".NET",
+      "color": "#512BD4"
+    },
+    {
+      "filename": "dotnetcore",
+      "displayName": ".NET Core",
+      "color": "#512BD4"
+    },
+    {
+      "filename": "dovecot",
+      "displayName": "Dovecot",
+      "color": "#27A822"
+    },
+    {
+      "filename": "dreamweaver",
+      "displayName": "Dreamweaver",
+      "color": "#FF61F6"
+    },
+    {
+      "filename": "dropwizard",
+      "displayName": "Dropwizard",
+      "color": "#0D83CC"
+    },
+    {
+      "filename": "drupal",
+      "displayName": "Drupal",
+      "color": "#0678BE"
+    },
+    {
+      "filename": "duckdb",
+      "displayName": "DuckDB",
+      "color": "#FFF000"
+    },
+    {
+      "filename": "dyalog",
+      "displayName": "Dyalog",
+      "color": "#E9522C"
+    },
+    {
+      "filename": "dynamodb",
+      "displayName": "DynamoDB",
+      "color": "#4053D6"
+    },
+    {
+      "filename": "dynatrace",
+      "displayName": "Dynatrace",
+      "color": "#1496FF"
+    },
+    {
+      "filename": "eclipse",
+      "displayName": "Eclipse",
+      "color": "#2C2255"
+    },
+    {
+      "filename": "ecto",
+      "displayName": "Ecto",
+      "color": "#8E75F3"
+    },
+    {
+      "filename": "elasticsearch",
+      "displayName": "Elasticsearch",
+      "color": "#005571"
+    },
+    {
+      "filename": "electron",
+      "displayName": "Electron",
+      "color": "#47848F"
+    },
+    {
+      "filename": "eleventy",
+      "displayName": "Eleventy",
+      "color": "#000000"
+    },
+    {
+      "filename": "elixir",
+      "displayName": "Elixir",
+      "color": "#4B275F"
+    },
+    {
+      "filename": "elm",
+      "displayName": "Elm",
+      "color": "#1293D8"
+    },
+    {
+      "filename": "emacs",
+      "displayName": "Emacs",
+      "color": "#7F5AB6"
+    },
+    {
+      "filename": "embeddedc",
+      "displayName": "Embedded C",
+      "color": "#00599C"
+    },
+    {
+      "filename": "ember",
+      "displayName": "Ember.js",
+      "color": "#E04E39"
+    },
+    {
+      "filename": "entityframeworkcore",
+      "displayName": "Entity Framework",
+      "color": "#512BD4"
+    },
+    {
+      "filename": "envoy",
+      "displayName": "Envoy",
+      "color": "#AC6199"
+    },
+    {
+      "filename": "erlang",
+      "displayName": "Erlang",
+      "color": "#A90533"
+    },
+    {
+      "filename": "eslint",
+      "displayName": "ESLint",
+      "color": "#4B32C3"
+    },
+    {
+      "filename": "exercism",
+      "displayName": "Exercism",
+      "color": "#009CAB"
+    },
+    {
+      "filename": "expo",
+      "displayName": "Expo",
+      "color": "#000020"
+    },
+    {
+      "filename": "express",
+      "displayName": "Express",
+      "color": "#000000"
+    },
+    {
+      "filename": "facebook",
+      "displayName": "Facebook",
+      "color": "#1877F2"
+    },
+    {
+      "filename": "fastapi",
+      "displayName": "FastAPI",
+      "color": "#009688"
+    },
+    {
+      "filename": "fastify",
+      "displayName": "Fastify",
+      "color": "#000000"
+    },
+    {
+      "filename": "faunadb",
+      "displayName": "FaunaDB",
+      "color": "#3A1AB6"
+    },
+    {
+      "filename": "feathersjs",
+      "displayName": "FeathersJS",
+      "color": "#222222"
+    },
+    {
+      "filename": "fedora",
+      "displayName": "Fedora",
+      "color": "#294172"
+    },
+    {
+      "filename": "fiber",
+      "displayName": "Fiber",
+      "color": "#00ADD8"
+    },
+    {
+      "filename": "figma",
+      "displayName": "Figma",
+      "color": "#F24E1E"
+    },
+    {
+      "filename": "filamentphp",
+      "displayName": "Filament",
+      "color": "#FDAE4B"
+    },
+    {
+      "filename": "filezilla",
+      "displayName": "FileZilla",
+      "color": "#BF0000"
+    },
+    {
+      "filename": "firebase",
+      "displayName": "Firebase",
+      "color": "#FFCA28"
+    },
+    {
+      "filename": "firebird",
+      "displayName": "Firebird",
+      "color": "#FF6000"
+    },
+    {
+      "filename": "firefox",
+      "displayName": "Firefox",
+      "color": "#FF7139"
+    },
+    {
+      "filename": "flask",
+      "displayName": "Flask",
+      "color": "#000000"
+    },
+    {
+      "filename": "flutter",
+      "displayName": "Flutter",
+      "color": "#02569B"
+    },
+    {
+      "filename": "forgejo",
+      "displayName": "Forgejo",
+      "color": "#FB923C"
+    },
+    {
+      "filename": "fortran",
+      "displayName": "Fortran",
+      "color": "#734F96"
+    },
+    {
+      "filename": "foundation",
+      "displayName": "Foundation",
+      "color": "#1779BA"
+    },
+    {
+      "filename": "framermotion",
+      "displayName": "Framer Motion",
+      "color": "#0055FF"
+    },
+    {
+      "filename": "framework7",
+      "displayName": "Framework7",
+      "color": "#EE350F"
+    },
+    {
+      "filename": "fsharp",
+      "displayName": "F#",
+      "color": "#378BBA"
+    },
+    {
+      "filename": "fusion",
+      "displayName": "Fusion 360",
+      "color": "#FF6D00"
+    },
+    {
+      "filename": "gardener",
+      "displayName": "Gardener",
+      "color": "#00A9CE"
+    },
+    {
+      "filename": "gatling",
+      "displayName": "Gatling",
+      "color": "#FF9E2A"
+    },
+    {
+      "filename": "gatsby",
+      "displayName": "Gatsby",
+      "color": "#663399"
+    },
+    {
+      "filename": "gazebo",
+      "displayName": "Gazebo",
+      "color": "#F57C00"
+    },
+    {
+      "filename": "gcc",
+      "displayName": "GCC",
+      "color": "#A42E2B"
+    },
+    {
+      "filename": "gentoo",
+      "displayName": "Gentoo",
+      "color": "#54487A"
+    },
+    {
+      "filename": "ghost",
+      "displayName": "Ghost",
+      "color": "#15171A"
+    },
+    {
+      "filename": "gimp",
+      "displayName": "GIMP",
+      "color": "#5C5543"
+    },
+    {
+      "filename": "git",
+      "displayName": "Git",
+      "color": "#F05032"
+    },
+    {
+      "filename": "gitbook",
+      "displayName": "GitBook",
+      "color": "#3884FF"
+    },
+    {
+      "filename": "github",
+      "displayName": "GitHub",
+      "color": "#181717"
+    },
+    {
+      "filename": "githubactions",
+      "displayName": "GitHub Actions",
+      "color": "#2088FF"
+    },
+    {
+      "filename": "githubcodespaces",
+      "displayName": "GitHub Codespaces",
+      "color": "#181717"
+    },
+    {
+      "filename": "gitkraken",
+      "displayName": "GitKraken",
+      "color": "#179287"
+    },
+    {
+      "filename": "gitlab",
+      "displayName": "GitLab",
+      "color": "#FC6D26"
+    },
+    {
+      "filename": "gitpod",
+      "displayName": "Gitpod",
+      "color": "#FFAE33"
+    },
+    {
+      "filename": "gitter",
+      "displayName": "Gitter",
+      "color": "#ED1965"
+    },
+    {
+      "filename": "gleam",
+      "displayName": "Gleam",
+      "color": "#FFAFF3"
+    },
+    {
+      "filename": "glitch",
+      "displayName": "Glitch",
+      "color": "#3333FF"
+    },
+    {
+      "filename": "go",
+      "displayName": "Go",
+      "color": "#00ADD8"
+    },
+    {
+      "filename": "godot",
+      "displayName": "Godot",
+      "color": "#478CBF"
+    },
+    {
+      "filename": "goland",
+      "displayName": "GoLand",
+      "color": "#000000"
+    },
+    {
+      "filename": "google",
+      "displayName": "Google",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "googlecloud",
+      "displayName": "Google Cloud",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "googlecolab",
+      "displayName": "Google Colab",
+      "color": "#F9AB00"
+    },
+    {
+      "filename": "gradle",
+      "displayName": "Gradle",
+      "color": "#02303A"
+    },
+    {
+      "filename": "grafana",
+      "displayName": "Grafana",
+      "color": "#F46800"
+    },
+    {
+      "filename": "grails",
+      "displayName": "Grails",
+      "color": "#5FB709"
+    },
+    {
+      "filename": "graphql",
+      "displayName": "GraphQL",
+      "color": "#E10098"
+    },
+    {
+      "filename": "groovy",
+      "displayName": "Groovy",
+      "color": "#4298B8"
+    },
+    {
+      "filename": "grpc",
+      "displayName": "gRPC",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "grunt",
+      "displayName": "Grunt",
+      "color": "#FBA919"
+    },
+    {
+      "filename": "gulp",
+      "displayName": "Gulp",
+      "color": "#CF4647"
+    },
+    {
+      "filename": "hadoop",
+      "displayName": "Hadoop",
+      "color": "#66CCFF"
+    },
+    {
+      "filename": "handlebars",
+      "displayName": "Handlebars",
+      "color": "#F7931E"
+    },
+    {
+      "filename": "harbor",
+      "displayName": "Harbor",
+      "color": "#60B932"
+    },
+    {
+      "filename": "hardhat",
+      "displayName": "Hardhat",
+      "color": "#FFF100"
+    },
+    {
+      "filename": "harvester",
+      "displayName": "Harvester",
+      "color": "#52B788"
+    },
+    {
+      "filename": "haskell",
+      "displayName": "Haskell",
+      "color": "#5D4F85"
+    },
+    {
+      "filename": "haxe",
+      "displayName": "Haxe",
+      "color": "#DF7900"
+    },
+    {
+      "filename": "helm",
+      "displayName": "Helm",
+      "color": "#0F1689"
+    },
+    {
+      "filename": "heroku",
+      "displayName": "Heroku",
+      "color": "#430098"
+    },
+    {
+      "filename": "hibernate",
+      "displayName": "Hibernate",
+      "color": "#59666C"
+    },
+    {
+      "filename": "homebrew",
+      "displayName": "Homebrew",
+      "color": "#FBB040"
+    },
+    {
+      "filename": "hoppscotch",
+      "displayName": "Hoppscotch",
+      "color": "#31C48D"
+    },
+    {
+      "filename": "html5",
+      "displayName": "HTML5",
+      "color": "#E34F26"
+    },
+    {
+      "filename": "htmx",
+      "displayName": "HTMX",
+      "color": "#3366CC"
+    },
+    {
+      "filename": "hugo",
+      "displayName": "Hugo",
+      "color": "#FF4088"
+    },
+    {
+      "filename": "hyperv",
+      "displayName": "Hyper-V",
+      "color": "#0078D4"
+    },
+    {
+      "filename": "ie10",
+      "displayName": "Internet Explorer",
+      "color": "#0076D6"
+    },
+    {
+      "filename": "ifttt",
+      "displayName": "IFTTT",
+      "color": "#000000"
+    },
+    {
+      "filename": "illustrator",
+      "displayName": "Illustrator",
+      "color": "#FF9A00"
+    },
+    {
+      "filename": "inertiajs",
+      "displayName": "Inertia.js",
+      "color": "#9553E9"
+    },
+    {
+      "filename": "influxdb",
+      "displayName": "InfluxDB",
+      "color": "#22ADF6"
+    },
+    {
+      "filename": "inkscape",
+      "displayName": "Inkscape",
+      "color": "#000000"
+    },
+    {
+      "filename": "insomnia",
+      "displayName": "Insomnia",
+      "color": "#4000BF"
+    },
+    {
+      "filename": "intellij",
+      "displayName": "IntelliJ IDEA",
+      "color": "#000000"
+    },
+    {
+      "filename": "ionic",
+      "displayName": "Ionic",
+      "color": "#3880FF"
+    },
+    {
+      "filename": "jaegertracing",
+      "displayName": "Jaeger",
+      "color": "#60D0E4"
+    },
+    {
+      "filename": "jamstack",
+      "displayName": "Jamstack",
+      "color": "#F0047F"
+    },
+    {
+      "filename": "jasmine",
+      "displayName": "Jasmine",
+      "color": "#8A4182"
+    },
+    {
+      "filename": "java",
+      "displayName": "Java",
+      "color": "#ED8B00"
+    },
+    {
+      "filename": "javascript",
+      "displayName": "JavaScript",
+      "color": "#F7DF1E"
+    },
+    {
+      "filename": "jeet",
+      "displayName": "Jeet",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "jekyll",
+      "displayName": "Jekyll",
+      "color": "#CC0000"
+    },
+    {
+      "filename": "jenkins",
+      "displayName": "Jenkins",
+      "color": "#D24939"
+    },
+    {
+      "filename": "jest",
+      "displayName": "Jest",
+      "color": "#C21325"
+    },
+    {
+      "filename": "jetbrains",
+      "displayName": "JetBrains",
+      "color": "#000000"
+    },
+    {
+      "filename": "jetpackcompose",
+      "displayName": "Jetpack Compose",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "jhipster",
+      "displayName": "JHipster",
+      "color": "#3E8ACC"
+    },
+    {
+      "filename": "jira",
+      "displayName": "Jira",
+      "color": "#0052CC"
+    },
+    {
+      "filename": "jiraalign",
+      "displayName": "Jira Align",
+      "color": "#0052CC"
+    },
+    {
+      "filename": "jquery",
+      "displayName": "jQuery",
+      "color": "#0769AD"
+    },
+    {
+      "filename": "json",
+      "displayName": "JSON",
+      "color": "#000000"
+    },
+    {
+      "filename": "jule",
+      "displayName": "Jule",
+      "color": "#D2133C"
+    },
+    {
+      "filename": "julia",
+      "displayName": "Julia",
+      "color": "#9558B2"
+    },
+    {
+      "filename": "junit",
+      "displayName": "JUnit",
+      "color": "#25A162"
+    },
+    {
+      "filename": "jupyter",
+      "displayName": "Jupyter",
+      "color": "#F37626"
+    },
+    {
+      "filename": "k3os",
+      "displayName": "k3OS",
+      "color": "#326CE5"
+    },
+    {
+      "filename": "k3s",
+      "displayName": "k3s",
+      "color": "#FFC61C"
+    },
+    {
+      "filename": "k6",
+      "displayName": "k6",
+      "color": "#7D64FF"
+    },
+    {
+      "filename": "kaggle",
+      "displayName": "Kaggle",
+      "color": "#20BEFF"
+    },
+    {
+      "filename": "kaldi",
+      "displayName": "Kaldi",
+      "color": "#F05032"
+    },
+    {
+      "filename": "kalilinux",
+      "displayName": "Kali Linux",
+      "color": "#557C94"
+    },
+    {
+      "filename": "karatelabs",
+      "displayName": "Karate Labs",
+      "color": "#FF6B35"
+    },
+    {
+      "filename": "karma",
+      "displayName": "Karma",
+      "color": "#56C5A8"
+    },
+    {
+      "filename": "kdeneon",
+      "displayName": "KDE neon",
+      "color": "#1D99F3"
+    },
+    {
+      "filename": "keras",
+      "displayName": "Keras",
+      "color": "#D00000"
+    },
+    {
+      "filename": "kibana",
+      "displayName": "Kibana",
+      "color": "#005571"
+    },
+    {
+      "filename": "knexjs",
+      "displayName": "Knex.js",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "knockout",
+      "displayName": "Knockout",
+      "color": "#E04A3F"
+    },
+    {
+      "filename": "kotlin",
+      "displayName": "Kotlin",
+      "color": "#0095D5"
+    },
+    {
+      "filename": "krakenjs",
+      "displayName": "Kraken.js",
+      "color": "#0081C9"
+    },
+    {
+      "filename": "ktor",
+      "displayName": "Ktor",
+      "color": "#FF8700"
+    },
+    {
+      "filename": "kubeflow",
+      "displayName": "Kubeflow",
+      "color": "#326CE5"
+    },
+    {
+      "filename": "kubernetes",
+      "displayName": "Kubernetes",
+      "color": "#326CE5"
+    },
+    {
+      "filename": "labview",
+      "displayName": "LabVIEW",
+      "color": "#FFDB00"
+    },
+    {
+      "filename": "laminas",
+      "displayName": "Laminas",
+      "color": "#68B604"
+    },
+    {
+      "filename": "laravel",
+      "displayName": "Laravel",
+      "color": "#FF2D20"
+    },
+    {
+      "filename": "laraveljetstream",
+      "displayName": "Laravel Jetstream",
+      "color": "#FF2D20"
+    },
+    {
+      "filename": "latex",
+      "displayName": "LaTeX",
+      "color": "#008080"
+    },
+    {
+      "filename": "leetcode",
+      "displayName": "LeetCode",
+      "color": "#FFA116"
+    },
+    {
+      "filename": "less",
+      "displayName": "Less",
+      "color": "#1D365D"
+    },
+    {
+      "filename": "libgdx",
+      "displayName": "libGDX",
+      "color": "#E44D26"
+    },
+    {
+      "filename": "linkedin",
+      "displayName": "LinkedIn",
+      "color": "#0A66C2"
+    },
+    {
+      "filename": "linux",
+      "displayName": "Linux",
+      "color": "#FCC624"
+    },
+    {
+      "filename": "linuxmint",
+      "displayName": "Linux Mint",
+      "color": "#87CF3E"
+    },
+    {
+      "filename": "liquibase",
+      "displayName": "Liquibase",
+      "color": "#2962FF"
+    },
+    {
+      "filename": "livewire",
+      "displayName": "Laravel Livewire",
+      "color": "#4E56A6"
+    },
+    {
+      "filename": "llvm",
+      "displayName": "LLVM",
+      "color": "#262D3A"
+    },
+    {
+      "filename": "lodash",
+      "displayName": "Lodash",
+      "color": "#3492FF"
+    },
+    {
+      "filename": "logstash",
+      "displayName": "Logstash",
+      "color": "#005571"
+    },
+    {
+      "filename": "love2d",
+      "displayName": "LÖVE",
+      "color": "#EA316E"
+    },
+    {
+      "filename": "lua",
+      "displayName": "Lua",
+      "color": "#2C2D72"
+    },
+    {
+      "filename": "lumen",
+      "displayName": "Lumen",
+      "color": "#E74430"
+    },
+    {
+      "filename": "magento",
+      "displayName": "Magento",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "mapbox",
+      "displayName": "Mapbox",
+      "color": "#000000"
+    },
+    {
+      "filename": "mariadb",
+      "displayName": "MariaDB",
+      "color": "#003545"
+    },
+    {
+      "filename": "markdown",
+      "displayName": "Markdown",
+      "color": "#000000"
+    },
+    {
+      "filename": "materializecss",
+      "displayName": "Materialize",
+      "color": "#EE6E73"
+    },
+    {
+      "filename": "materialui",
+      "displayName": "Material-UI",
+      "color": "#0081CB"
+    },
+    {
+      "filename": "matlab",
+      "displayName": "MATLAB",
+      "color": "#FF6C00"
+    },
+    {
+      "filename": "matplotlib",
+      "displayName": "Matplotlib",
+      "color": "#11557C"
+    },
+    {
+      "filename": "mattermost",
+      "displayName": "Mattermost",
+      "color": "#0058CC"
+    },
+    {
+      "filename": "maven",
+      "displayName": "Apache Maven",
+      "color": "#C71A36"
+    },
+    {
+      "filename": "maya",
+      "displayName": "Maya",
+      "color": "#0696D7"
+    },
+    {
+      "filename": "memcached",
+      "displayName": "Memcached",
+      "color": "#1BA8DB"
+    },
+    {
+      "filename": "mercurial",
+      "displayName": "Mercurial",
+      "color": "#999999"
+    },
+    {
+      "filename": "meteor",
+      "displayName": "Meteor",
+      "color": "#DE4F4F"
+    },
+    {
+      "filename": "microsoftsqlserver",
+      "displayName": "SQL Server",
+      "color": "#CC2927"
+    },
+    {
+      "filename": "minitab",
+      "displayName": "Minitab",
+      "color": "#8DC63F"
+    },
+    {
+      "filename": "mithril",
+      "displayName": "Mithril",
+      "color": "#FF4081"
+    },
+    {
+      "filename": "mobx",
+      "displayName": "MobX",
+      "color": "#FF9955"
+    },
+    {
+      "filename": "mocha",
+      "displayName": "Mocha",
+      "color": "#8D6748"
+    },
+    {
+      "filename": "modx",
+      "displayName": "MODX",
+      "color": "#00CAAD"
+    },
+    {
+      "filename": "moleculer",
+      "displayName": "Moleculer",
+      "color": "#3CAFCE"
+    },
+    {
+      "filename": "mongodb",
+      "displayName": "MongoDB",
+      "color": "#47A248"
+    },
+    {
+      "filename": "mongoose",
+      "displayName": "Mongoose",
+      "color": "#880000"
+    },
+    {
+      "filename": "monogame",
+      "displayName": "MonoGame",
+      "color": "#E73C00"
+    },
+    {
+      "filename": "moodle",
+      "displayName": "Moodle",
+      "color": "#FF7800"
+    },
+    {
+      "filename": "msdos",
+      "displayName": "MS-DOS",
+      "color": "#000000"
+    },
+    {
+      "filename": "mysql",
+      "displayName": "MySQL",
+      "color": "#4479A1"
+    },
+    {
+      "filename": "nano",
+      "displayName": "Nano",
+      "color": "#4A90E2"
+    },
+    {
+      "filename": "nats",
+      "displayName": "NATS",
+      "color": "#199BFC"
+    },
+    {
+      "filename": "neo4j",
+      "displayName": "Neo4j",
+      "color": "#008CC1"
+    },
+    {
+      "filename": "neovim",
+      "displayName": "Neovim",
+      "color": "#57A143"
+    },
+    {
+      "filename": "nestjs",
+      "displayName": "NestJS",
+      "color": "#E0234E"
+    },
+    {
+      "filename": "netbeans",
+      "displayName": "NetBeans",
+      "color": "#1B6AC6"
+    },
+    {
+      "filename": "netbox",
+      "displayName": "NetBox",
+      "color": "#001B3A"
+    },
+    {
+      "filename": "netlify",
+      "displayName": "Netlify",
+      "color": "#00C7B7"
+    },
+    {
+      "filename": "networkx",
+      "displayName": "NetworkX",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "newrelic",
+      "displayName": "New Relic",
+      "color": "#008C99"
+    },
+    {
+      "filename": "nextjs",
+      "displayName": "Next.js",
+      "color": "#000000"
+    },
+    {
+      "filename": "nginx",
+      "displayName": "Nginx",
+      "color": "#009639"
+    },
+    {
+      "filename": "ngrok",
+      "displayName": "ngrok",
+      "color": "#1F1E37"
+    },
+    {
+      "filename": "ngrx",
+      "displayName": "NgRx",
+      "color": "#412846"
+    },
+    {
+      "filename": "nhibernate",
+      "displayName": "NHibernate",
+      "color": "#654321"
+    },
+    {
+      "filename": "nim",
+      "displayName": "Nim",
+      "color": "#FFE953"
+    },
+    {
+      "filename": "nimble",
+      "displayName": "Nimble",
+      "color": "#FFE953"
+    },
+    {
+      "filename": "nixos",
+      "displayName": "NixOS",
+      "color": "#5277C3"
+    },
+    {
+      "filename": "nodejs",
+      "displayName": "Node.js",
+      "color": "#339933"
+    },
+    {
+      "filename": "nodemon",
+      "displayName": "Nodemon",
+      "color": "#76D04B"
+    },
+    {
+      "filename": "nodered",
+      "displayName": "Node-RED",
+      "color": "#8F0000"
+    },
+    {
+      "filename": "nodewebkit",
+      "displayName": "NW.js",
+      "color": "#3D3D3D"
+    },
+    {
+      "filename": "nomad",
+      "displayName": "Nomad",
+      "color": "#00BC7F"
+    },
+    {
+      "filename": "norg",
+      "displayName": "Norg",
+      "color": "#4E9A06"
+    },
+    {
+      "filename": "notion",
+      "displayName": "Notion",
+      "color": "#000000"
+    },
+    {
+      "filename": "npm",
+      "displayName": "npm",
+      "color": "#CB3837"
+    },
+    {
+      "filename": "npss",
+      "displayName": "NPSS",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "nuget",
+      "displayName": "NuGet",
+      "color": "#004880"
+    },
+    {
+      "filename": "numpy",
+      "displayName": "NumPy",
+      "color": "#013243"
+    },
+    {
+      "filename": "nuxt",
+      "displayName": "Nuxt.js",
+      "color": "#00C58E"
+    },
+    {
+      "filename": "nuxtjs",
+      "displayName": "Nuxt.js",
+      "color": "#00C58E"
+    },
+    {
+      "filename": "oauth",
+      "displayName": "OAuth",
+      "color": "#4285F4"
+    },
+    {
+      "filename": "objectivec",
+      "displayName": "Objective-C",
+      "color": "#438EFF"
+    },
+    {
+      "filename": "ocaml",
+      "displayName": "OCaml",
+      "color": "#3BE133"
+    },
+    {
+      "filename": "ohmyzsh",
+      "displayName": "Oh My Zsh",
+      "color": "#000000"
+    },
+    {
+      "filename": "okta",
+      "displayName": "Okta",
+      "color": "#007DC1"
+    },
+    {
+      "filename": "openal",
+      "displayName": "OpenAL",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "openapi",
+      "displayName": "OpenAPI",
+      "color": "#6BA539"
+    },
+    {
+      "filename": "opencl",
+      "displayName": "OpenCL",
+      "color": "#ED2E2D"
+    },
+    {
+      "filename": "opencv",
+      "displayName": "OpenCV",
+      "color": "#5C3EE8"
+    },
+    {
+      "filename": "opengl",
+      "displayName": "OpenGL",
+      "color": "#5586A4"
+    },
+    {
+      "filename": "openstack",
+      "displayName": "OpenStack",
+      "color": "#ED1944"
+    },
+    {
+      "filename": "opensuse",
+      "displayName": "openSUSE",
+      "color": "#73BA25"
+    },
+    {
+      "filename": "opentelemetry",
+      "displayName": "OpenTelemetry",
+      "color": "#F5A800"
+    },
+    {
+      "filename": "opera",
+      "displayName": "Opera",
+      "color": "#FF1B2D"
+    },
+    {
+      "filename": "oracle",
+      "displayName": "Oracle",
+      "color": "#F80000"
+    },
+    {
+      "filename": "ory",
+      "displayName": "Ory",
+      "color": "#5528FF"
+    },
+    {
+      "filename": "p5js",
+      "displayName": "p5.js",
+      "color": "#ED225D"
+    },
+    {
+      "filename": "packer",
+      "displayName": "Packer",
+      "color": "#1DAEFF"
+    },
+    {
+      "filename": "pandas",
+      "displayName": "pandas",
+      "color": "#150458"
+    },
+    {
+      "filename": "passport",
+      "displayName": "Passport",
+      "color": "#34E27A"
+    },
+    {
+      "filename": "perl",
+      "displayName": "Perl",
+      "color": "#39457E"
+    },
+    {
+      "filename": "pfsense",
+      "displayName": "pfSense",
+      "color": "#212D63"
+    },
+    {
+      "filename": "phalcon",
+      "displayName": "Phalcon",
+      "color": "#76C39B"
+    },
+    {
+      "filename": "phoenix",
+      "displayName": "Phoenix",
+      "color": "#FD4F00"
+    },
+    {
+      "filename": "photonengine",
+      "displayName": "Photon Engine",
+      "color": "#004CFF"
+    },
+    {
+      "filename": "photoshop",
+      "displayName": "Photoshop",
+      "color": "#31A8FF"
+    },
+    {
+      "filename": "php",
+      "displayName": "PHP",
+      "color": "#777BB4"
+    },
+    {
+      "filename": "phpstorm",
+      "displayName": "PhpStorm",
+      "color": "#000000"
+    },
+    {
+      "filename": "pixijs",
+      "displayName": "PixiJS",
+      "color": "#E91E63"
+    },
+    {
+      "filename": "playwright",
+      "displayName": "Playwright",
+      "color": "#2EAD33"
+    },
+    {
+      "filename": "plotly",
+      "displayName": "Plotly",
+      "color": "#3F4F75"
+    },
+    {
+      "filename": "pm2",
+      "displayName": "PM2",
+      "color": "#2B037A"
+    },
+    {
+      "filename": "pnpm",
+      "displayName": "pnpm",
+      "color": "#F69220"
+    },
+    {
+      "filename": "podman",
+      "displayName": "Podman",
+      "color": "#892CA0"
+    },
+    {
+      "filename": "poetry",
+      "displayName": "Poetry",
+      "color": "#60A5FA"
+    },
+    {
+      "filename": "polygon",
+      "displayName": "Polygon",
+      "color": "#8247E5"
+    },
+    {
+      "filename": "portainer",
+      "displayName": "Portainer",
+      "color": "#13BEF9"
+    },
+    {
+      "filename": "postcss",
+      "displayName": "PostCSS",
+      "color": "#DD3A0A"
+    },
+    {
+      "filename": "postgresql",
+      "displayName": "PostgreSQL",
+      "color": "#4169E1"
+    },
+    {
+      "filename": "postman",
+      "displayName": "Postman",
+      "color": "#FF6C37"
+    },
+    {
+      "filename": "powershell",
+      "displayName": "PowerShell",
+      "color": "#5391FE"
+    },
+    {
+      "filename": "premierepro",
+      "displayName": "Premiere Pro",
+      "color": "#9999FF"
+    },
+    {
+      "filename": "primeng",
+      "displayName": "PrimeNG",
+      "color": "#007AD9"
+    },
+    {
+      "filename": "prisma",
+      "displayName": "Prisma",
+      "color": "#2D3748"
+    },
+    {
+      "filename": "processing",
+      "displayName": "Processing",
+      "color": "#006699"
+    },
+    {
+      "filename": "processwire",
+      "displayName": "ProcessWire",
+      "color": "#EF145F"
+    },
+    {
+      "filename": "prolog",
+      "displayName": "Prolog",
+      "color": "#74283C"
+    },
+    {
+      "filename": "prometheus",
+      "displayName": "Prometheus",
+      "color": "#E6522C"
+    },
+    {
+      "filename": "protractor",
+      "displayName": "Protractor",
+      "color": "#E23237"
+    },
+    {
+      "filename": "proxmox",
+      "displayName": "Proxmox",
+      "color": "#E57000"
+    },
+    {
+      "filename": "pug",
+      "displayName": "Pug",
+      "color": "#A86454"
+    },
+    {
+      "filename": "pulsar",
+      "displayName": "Apache Pulsar",
+      "color": "#188FFF"
+    },
+    {
+      "filename": "pulumi",
+      "displayName": "Pulumi",
+      "color": "#8A3391"
+    },
+    {
+      "filename": "puppeteer",
+      "displayName": "Puppeteer",
+      "color": "#40B5A4"
+    },
+    {
+      "filename": "purescript",
+      "displayName": "PureScript",
+      "color": "#1D222D"
+    },
+    {
+      "filename": "putty",
+      "displayName": "PuTTY",
+      "color": "#024E8C"
+    },
+    {
+      "filename": "pycharm",
+      "displayName": "PyCharm",
+      "color": "#000000"
+    },
+    {
+      "filename": "pypi",
+      "displayName": "PyPI",
+      "color": "#3775A9"
+    },
+    {
+      "filename": "pyscript",
+      "displayName": "PyScript",
+      "color": "#4584b6"
+    },
+    {
+      "filename": "pytest",
+      "displayName": "pytest",
+      "color": "#0A9EDC"
+    },
+    {
+      "filename": "python",
+      "displayName": "Python",
+      "color": "#3776AB"
+    },
+    {
+      "filename": "pytorch",
+      "displayName": "PyTorch",
+      "color": "#EE4C2C"
+    },
+    {
+      "filename": "qodana",
+      "displayName": "Qodana",
+      "color": "#000000"
+    },
+    {
+      "filename": "qt",
+      "displayName": "Qt",
+      "color": "#41CD52"
+    },
+    {
+      "filename": "qtest",
+      "displayName": "QTest",
+      "color": "#40E0D0"
+    },
+    {
+      "filename": "quarkus",
+      "displayName": "Quarkus",
+      "color": "#4695EB"
+    },
+    {
+      "filename": "quasar",
+      "displayName": "Quasar",
+      "color": "#1976D2"
+    },
+    {
+      "filename": "qwik",
+      "displayName": "Qwik",
+      "color": "#AC7EF4"
+    },
+    {
+      "filename": "r",
+      "displayName": "R",
+      "color": "#276DC3"
+    },
+    {
+      "filename": "rabbitmq",
+      "displayName": "RabbitMQ",
+      "color": "#FF6600"
+    },
+    {
+      "filename": "racket",
+      "displayName": "Racket",
+      "color": "#9F1D20"
+    },
+    {
+      "filename": "radstudio",
+      "displayName": "RAD Studio",
+      "color": "#E62431"
+    },
+    {
+      "filename": "rails",
+      "displayName": "Ruby on Rails",
+      "color": "#CC0000"
+    },
+    {
+      "filename": "railway",
+      "displayName": "Railway",
+      "color": "#0B0D0E"
+    },
+    {
+      "filename": "rancher",
+      "displayName": "Rancher",
+      "color": "#0075A8"
+    },
+    {
+      "filename": "raspberrypi",
+      "displayName": "Raspberry Pi",
+      "color": "#A22846"
+    },
+    {
+      "filename": "reach",
+      "displayName": "Reach",
+      "color": "#61DAFB"
+    },
+    {
+      "filename": "react",
+      "displayName": "React",
+      "color": "#61DAFB"
+    },
+    {
+      "filename": "reactbootstrap",
+      "displayName": "React Bootstrap",
+      "color": "#61DAFB"
+    },
+    {
+      "filename": "reactnative",
+      "displayName": "React Native",
+      "color": "#61DAFB"
+    },
+    {
+      "filename": "reactnavigation",
+      "displayName": "React Navigation",
+      "color": "#61DAFB"
+    },
+    {
+      "filename": "reactrouter",
+      "displayName": "React Router",
+      "color": "#CA4245"
+    },
+    {
+      "filename": "readthedocs",
+      "displayName": "Read the Docs",
+      "color": "#8CA1AF"
+    },
+    {
+      "filename": "realm",
+      "displayName": "Realm",
+      "color": "#39477F"
+    },
+    {
+      "filename": "rect",
+      "displayName": "Rect",
+      "color": "#4FC3F7"
+    },
+    {
+      "filename": "redhat",
+      "displayName": "Red Hat",
+      "color": "#EE0000"
+    },
+    {
+      "filename": "redis",
+      "displayName": "Redis",
+      "color": "#DC382D"
+    },
+    {
+      "filename": "redux",
+      "displayName": "Redux",
+      "color": "#764ABC"
+    },
+    {
+      "filename": "reflex",
+      "displayName": "Reflex",
+      "color": "#5646ED"
+    },
+    {
+      "filename": "remix",
+      "displayName": "Remix",
+      "color": "#000000"
+    },
+    {
+      "filename": "renpy",
+      "displayName": "Ren'Py",
+      "color": "#FF7F7F"
+    },
+    {
+      "filename": "replit",
+      "displayName": "Replit",
+      "color": "#56676F"
+    },
+    {
+      "filename": "rexx",
+      "displayName": "REXX",
+      "color": "#0033A0"
+    },
+    {
+      "filename": "rider",
+      "displayName": "Rider",
+      "color": "#000000"
+    },
+    {
+      "filename": "rocksdb",
+      "displayName": "RocksDB",
+      "color": "#0090FF"
+    },
+    {
+      "filename": "rockylinux",
+      "displayName": "Rocky Linux",
+      "color": "#10B981"
+    },
+    {
+      "filename": "rollup",
+      "displayName": "Rollup",
+      "color": "#EC4A3F"
+    },
+    {
+      "filename": "ros",
+      "displayName": "ROS",
+      "color": "#22314E"
+    },
+    {
+      "filename": "rspec",
+      "displayName": "RSpec",
+      "color": "#CF245F"
+    },
+    {
+      "filename": "rstudio",
+      "displayName": "RStudio",
+      "color": "#75AADB"
+    },
+    {
+      "filename": "ruby",
+      "displayName": "Ruby",
+      "color": "#CC342D"
+    },
+    {
+      "filename": "rubymine",
+      "displayName": "RubyMine",
+      "color": "#000000"
+    },
+    {
+      "filename": "rust",
+      "displayName": "Rust",
+      "color": "#000000"
+    },
+    {
+      "filename": "rxjs",
+      "displayName": "RxJS",
+      "color": "#B7178C"
+    },
+    {
+      "filename": "safari",
+      "displayName": "Safari",
+      "color": "#006CFF"
+    },
+    {
+      "filename": "salesforce",
+      "displayName": "Salesforce",
+      "color": "#00A1E0"
+    },
+    {
+      "filename": "sanity",
+      "displayName": "Sanity",
+      "color": "#F03E2F"
+    },
+    {
+      "filename": "sass",
+      "displayName": "Sass",
+      "color": "#CC6699"
+    },
+    {
+      "filename": "scala",
+      "displayName": "Scala",
+      "color": "#DC322F"
+    },
+    {
+      "filename": "scalingo",
+      "displayName": "Scalingo",
+      "color": "#3A4149"
+    },
+    {
+      "filename": "scikitlearn",
+      "displayName": "scikit-learn",
+      "color": "#F7931E"
+    },
+    {
+      "filename": "sdl",
+      "displayName": "SDL",
+      "color": "#1C4E80"
+    },
+    {
+      "filename": "selenium",
+      "displayName": "Selenium",
+      "color": "#43B02A"
+    },
+    {
+      "filename": "sema",
+      "displayName": "Sema",
+      "color": "#2D3436"
+    },
+    {
+      "filename": "sentry",
+      "displayName": "Sentry",
+      "color": "#362D59"
+    },
+    {
+      "filename": "sequelize",
+      "displayName": "Sequelize",
+      "color": "#52B0E7"
+    },
+    {
+      "filename": "shopware",
+      "displayName": "Shopware",
+      "color": "#189EFF"
+    },
+    {
+      "filename": "shotgrid",
+      "displayName": "ShotGrid",
+      "color": "#FF7B00"
+    },
+    {
+      "filename": "sketch",
+      "displayName": "Sketch",
+      "color": "#F7B500"
+    },
+    {
+      "filename": "slack",
+      "displayName": "Slack",
+      "color": "#4A154B"
+    },
+    {
+      "filename": "socketio",
+      "displayName": "Socket.io",
+      "color": "#010101"
+    },
+    {
+      "filename": "solidity",
+      "displayName": "Solidity",
+      "color": "#363636"
+    },
+    {
+      "filename": "solidjs",
+      "displayName": "SolidJS",
+      "color": "#2C4F7C"
+    },
+    {
+      "filename": "sonarqube",
+      "displayName": "SonarQube",
+      "color": "#4E9BCD"
+    },
+    {
+      "filename": "sourceengine",
+      "displayName": "Source Engine",
+      "color": "#F79A00"
+    },
+    {
+      "filename": "sourcetree",
+      "displayName": "Sourcetree",
+      "color": "#0052CC"
+    },
+    {
+      "filename": "spack",
+      "displayName": "Spack",
+      "color": "#0B7EC8"
+    },
+    {
+      "filename": "spicedb",
+      "displayName": "SpiceDB",
+      "color": "#F93DD0"
+    },
+    {
+      "filename": "splunk",
+      "displayName": "Splunk",
+      "color": "#000000"
+    },
+    {
+      "filename": "spring",
+      "displayName": "Spring",
+      "color": "#6DB33F"
+    },
+    {
+      "filename": "spss",
+      "displayName": "SPSS",
+      "color": "#052FAD"
+    },
+    {
+      "filename": "spyder",
+      "displayName": "Spyder",
+      "color": "#FF0000"
+    },
+    {
+      "filename": "sqlalchemy",
+      "displayName": "SQLAlchemy",
+      "color": "#D71F00"
+    },
+    {
+      "filename": "sqldeveloper",
+      "displayName": "SQL Developer",
+      "color": "#F80000"
+    },
+    {
+      "filename": "sqlite",
+      "displayName": "SQLite",
+      "color": "#003B57"
+    },
+    {
+      "filename": "ssh",
+      "displayName": "SSH",
+      "color": "#231F20"
+    },
+    {
+      "filename": "stackblitz",
+      "displayName": "StackBlitz",
+      "color": "#1389FD"
+    },
+    {
+      "filename": "stackoverflow",
+      "displayName": "Stack Overflow",
+      "color": "#F58025"
+    },
+    {
+      "filename": "stata",
+      "displayName": "Stata",
+      "color": "#1A162B"
+    },
+    {
+      "filename": "stenciljs",
+      "displayName": "StencilJS",
+      "color": "#16161F"
+    },
+    {
+      "filename": "storybook",
+      "displayName": "Storybook",
+      "color": "#FF4785"
+    },
+    {
+      "filename": "streamlit",
+      "displayName": "Streamlit",
+      "color": "#FF4B4B"
+    },
+    {
+      "filename": "styledcomponents",
+      "displayName": "styled-components",
+      "color": "#DB7093"
+    },
+    {
+      "filename": "stylus",
+      "displayName": "Stylus",
+      "color": "#FF6347"
+    },
+    {
+      "filename": "subversion",
+      "displayName": "Subversion",
+      "color": "#809CC9"
+    },
+    {
+      "filename": "sulu",
+      "displayName": "Sulu",
+      "color": "#FFD800"
+    },
+    {
+      "filename": "supabase",
+      "displayName": "Supabase",
+      "color": "#3ECF8E"
+    },
+    {
+      "filename": "surrealdb",
+      "displayName": "SurrealDB",
+      "color": "#FF00A0"
+    },
+    {
+      "filename": "svelte",
+      "displayName": "Svelte",
+      "color": "#FF3E00"
+    },
+    {
+      "filename": "svgo",
+      "displayName": "SVGO",
+      "color": "#3F51B5"
+    },
+    {
+      "filename": "swagger",
+      "displayName": "Swagger",
+      "color": "#85EA2D"
+    },
+    {
+      "filename": "swift",
+      "displayName": "Swift",
+      "color": "#FA7343"
+    },
+    {
+      "filename": "swiper",
+      "displayName": "Swiper",
+      "color": "#6332F6"
+    },
+    {
+      "filename": "symfony",
+      "displayName": "Symfony",
+      "color": "#000000"
+    },
+    {
+      "filename": "tailwindcss",
+      "displayName": "Tailwind CSS",
+      "color": "#06B6D4"
+    },
+    {
+      "filename": "talos",
+      "displayName": "Talos",
+      "color": "#FF6A00"
+    },
+    {
+      "filename": "tauri",
+      "displayName": "Tauri",
+      "color": "#FFC131"
+    },
+    {
+      "filename": "teleport",
+      "displayName": "Teleport",
+      "color": "#512FC9"
+    },
+    {
+      "filename": "tensorflow",
+      "displayName": "TensorFlow",
+      "color": "#FF6F00"
+    },
+    {
+      "filename": "terraform",
+      "displayName": "Terraform",
+      "color": "#623CE4"
+    },
+    {
+      "filename": "terramate",
+      "displayName": "Terramate",
+      "color": "#5C4EE5"
+    },
+    {
+      "filename": "tex",
+      "displayName": "TeX",
+      "color": "#3D6117"
+    },
+    {
+      "filename": "thealgorithms",
+      "displayName": "The Algorithms",
+      "color": "#00BCF2"
+    },
+    {
+      "filename": "threedsmax",
+      "displayName": "3ds Max",
+      "color": "#0696D7"
+    },
+    {
+      "filename": "threejs",
+      "displayName": "Three.js",
+      "color": "#000000"
+    },
+    {
+      "filename": "thymeleaf",
+      "displayName": "Thymeleaf",
+      "color": "#005F0F"
+    },
+    {
+      "filename": "titaniumsdk",
+      "displayName": "Titanium SDK",
+      "color": "#D4271B"
+    },
+    {
+      "filename": "tmux",
+      "displayName": "tmux",
+      "color": "#1BB91F"
+    },
+    {
+      "filename": "tomcat",
+      "displayName": "Apache Tomcat",
+      "color": "#F8DC75"
+    },
+    {
+      "filename": "tortoisegit",
+      "displayName": "TortoiseGit",
+      "color": "#5C2D91"
+    },
+    {
+      "filename": "towergit",
+      "displayName": "Tower",
+      "color": "#FF6B35"
+    },
+    {
+      "filename": "traefikmesh",
+      "displayName": "Traefik Mesh",
+      "color": "#24A1C1"
+    },
+    {
+      "filename": "traefikproxy",
+      "displayName": "Traefik Proxy",
+      "color": "#24A1C1"
+    },
+    {
+      "filename": "travis",
+      "displayName": "Travis CI",
+      "color": "#3EAAAF"
+    },
+    {
+      "filename": "trello",
+      "displayName": "Trello",
+      "color": "#0079BF"
+    },
+    {
+      "filename": "trpc",
+      "displayName": "tRPC",
+      "color": "#398CCB"
+    },
+    {
+      "filename": "turbo",
+      "displayName": "Turbo",
+      "color": "#5CD8FF"
+    },
+    {
+      "filename": "twilio",
+      "displayName": "Twilio",
+      "color": "#F22F46"
+    },
+    {
+      "filename": "twitter",
+      "displayName": "Twitter",
+      "color": "#1DA1F2"
+    },
+    {
+      "filename": "typescript",
+      "displayName": "TypeScript",
+      "color": "#3178C6"
+    },
+    {
+      "filename": "typo3",
+      "displayName": "TYPO3",
+      "color": "#FF8700"
+    },
+    {
+      "filename": "ubuntu",
+      "displayName": "Ubuntu",
+      "color": "#E95420"
+    },
+    {
+      "filename": "unifiedmodelinglanguage",
+      "displayName": "UML",
+      "color": "#FABD14"
+    },
+    {
+      "filename": "unity",
+      "displayName": "Unity",
+      "color": "#FFFFFF"
+    },
+    {
+      "filename": "unix",
+      "displayName": "Unix",
+      "color": "#000000"
+    },
+    {
+      "filename": "unrealengine",
+      "displayName": "Unreal Engine",
+      "color": "#0E1128"
+    },
+    {
+      "filename": "uwsgi",
+      "displayName": "uWSGI",
+      "color": "#BAD85B"
+    },
+    {
+      "filename": "v8",
+      "displayName": "V8",
+      "color": "#4B8BF5"
+    },
+    {
+      "filename": "vaadin",
+      "displayName": "Vaadin",
+      "color": "#00B4F0"
+    },
+    {
+      "filename": "vagrant",
+      "displayName": "Vagrant",
+      "color": "#1563FF"
+    },
+    {
+      "filename": "vala",
+      "displayName": "Vala",
+      "color": "#A56DE2"
+    },
+    {
+      "filename": "vault",
+      "displayName": "Vault",
+      "color": "#FFEC6E"
+    },
+    {
+      "filename": "veevalidate",
+      "displayName": "VeeValidate",
+      "color": "#35495E"
+    },
+    {
+      "filename": "vercel",
+      "displayName": "Vercel",
+      "color": "#000000"
+    },
+    {
+      "filename": "vertx",
+      "displayName": "Vert.x",
+      "color": "#782A90"
+    },
+    {
+      "filename": "vim",
+      "displayName": "Vim",
+      "color": "#019733"
+    },
+    {
+      "filename": "visualbasic",
+      "displayName": "Visual Basic",
+      "color": "#004E8C"
+    },
+    {
+      "filename": "visualstudio",
+      "displayName": "Visual Studio",
+      "color": "#5C2D91"
+    },
+    {
+      "filename": "vite",
+      "displayName": "Vite",
+      "color": "#646CFF"
+    },
+    {
+      "filename": "vitejs",
+      "displayName": "Vite",
+      "color": "#646CFF"
+    },
+    {
+      "filename": "vitess",
+      "displayName": "Vitess",
+      "color": "#F16728"
+    },
+    {
+      "filename": "vitest",
+      "displayName": "Vitest",
+      "color": "#6E9F18"
+    },
+    {
+      "filename": "vscode",
+      "displayName": "VS Code",
+      "color": "#007ACC"
+    },
+    {
+      "filename": "vscodium",
+      "displayName": "VSCodium",
+      "color": "#2F80ED"
+    },
+    {
+      "filename": "vsphere",
+      "displayName": "vSphere",
+      "color": "#607078"
+    },
+    {
+      "filename": "vuejs",
+      "displayName": "Vue.js",
+      "color": "#4FC08D"
+    },
+    {
+      "filename": "vuestorefront",
+      "displayName": "Vue Storefront",
+      "color": "#5ECE7B"
+    },
+    {
+      "filename": "vuetify",
+      "displayName": "Vuetify",
+      "color": "#1867C0"
+    },
+    {
+      "filename": "vulkan",
+      "displayName": "Vulkan",
+      "color": "#AC162C"
+    },
+    {
+      "filename": "vyper",
+      "displayName": "Vyper",
+      "color": "#333333"
+    },
+    {
+      "filename": "waku",
+      "displayName": "Waku",
+      "color": "#1F2937"
+    },
+    {
+      "filename": "wasm",
+      "displayName": "WebAssembly",
+      "color": "#654FF0"
+    },
+    {
+      "filename": "web3js",
+      "displayName": "Web3.js",
+      "color": "#F16822"
+    },
+    {
+      "filename": "webflow",
+      "displayName": "Webflow",
+      "color": "#4353FF"
+    },
+    {
+      "filename": "webgpu",
+      "displayName": "WebGPU",
+      "color": "#005A9C"
+    },
+    {
+      "filename": "weblate",
+      "displayName": "Weblate",
+      "color": "#2ECCAA"
+    },
+    {
+      "filename": "webpack",
+      "displayName": "Webpack",
+      "color": "#8DD6F9"
+    },
+    {
+      "filename": "webstorm",
+      "displayName": "WebStorm",
+      "color": "#000000"
+    },
+    {
+      "filename": "windows11",
+      "displayName": "Windows 11",
+      "color": "#0078D4"
+    },
+    {
+      "filename": "windows8",
+      "displayName": "Windows 8",
+      "color": "#00BCF2"
+    },
+    {
+      "filename": "wolfram",
+      "displayName": "Wolfram",
+      "color": "#DD1100"
+    },
+    {
+      "filename": "woocommerce",
+      "displayName": "WooCommerce",
+      "color": "#96588A"
+    },
+    {
+      "filename": "wordpress",
+      "displayName": "WordPress",
+      "color": "#21759B"
+    },
+    {
+      "filename": "xamarin",
+      "displayName": "Xamarin",
+      "color": "#3498DB"
+    },
+    {
+      "filename": "xcode",
+      "displayName": "Xcode",
+      "color": "#1575F9"
+    },
+    {
+      "filename": "xd",
+      "displayName": "Adobe XD",
+      "color": "#FF61F6"
+    },
+    {
+      "filename": "xml",
+      "displayName": "XML",
+      "color": "#005FAD"
+    },
+    {
+      "filename": "yaml",
+      "displayName": "YAML",
+      "color": "#CB171E"
+    },
+    {
+      "filename": "yarn",
+      "displayName": "Yarn",
+      "color": "#2C8EBB"
+    },
+    {
+      "filename": "yii",
+      "displayName": "Yii",
+      "color": "#0073BB"
+    },
+    {
+      "filename": "yugabytedb",
+      "displayName": "YugabyteDB",
+      "color": "#E94B3C"
+    },
+    {
+      "filename": "yunohost",
+      "displayName": "YunoHost",
+      "color": "#B5BD68"
+    },
+    {
+      "filename": "zend",
+      "displayName": "Zend",
+      "color": "#0679EA"
+    },
+    {
+      "filename": "zig",
+      "displayName": "Zig",
+      "color": "#F7A41D"
+    },
+    {
+      "filename": "zsh",
+      "displayName": "Zsh",
+      "color": "#89E051"
+    },
+    {
+      "filename": "zustand",
+      "displayName": "Zustand",
+      "color": "#443E38"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "timestamp": "E:/dev/skill-badges",
+  "results": {
+    "success": 579,
+    "errors": 0,
+    "total": 579
+  },
+  "configuration": {
+    "height": 30,
+    "padding": 16,
+    "icon_size": 20,
+    "text_padding": 12,
+    "border_radius": 15
+  },
+  "missing_icons": []
+}

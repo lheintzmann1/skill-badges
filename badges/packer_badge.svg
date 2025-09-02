@@ -1,0 +1,15 @@
+<svg width="114" height="30" viewBox="0 0 114 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="114" height="30" rx="15" fill="#1DAEFF"/>
+  
+  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
+    <path d="M66.354 39.617V128l-41.482-23.963v-88.39Zm0 0"/><path d="M86.893 25.975 41.801 0v18.044L72.46 35.75v54.119l14.433 8.269c8.934 5.158 16.236 2.066 16.236-6.863V51.592c0-8.933-7.302-20.459-16.235-25.617zm0 0"/>
+  </g>
+  
+  <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Packer</text>
+</svg>
