@@ -1,6 +1,8 @@
 name: Regenerate Badges
 
 on:
+  schedule:
+    - cron: '0 18 * * *' # daily at 18:00 UTC
   push:
     paths:
       - 'badges_config.json'
