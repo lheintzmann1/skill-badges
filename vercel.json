@@ -1,15 +1,4 @@
 {
-  "functions": {
-    "api/s.py": {
-      "runtime": "@vercel/python"
-    },
-    "api/d.py": {
-      "runtime": "@vercel/python"
-    },
-    "api/list.py": {
-      "runtime": "@vercel/python"
-    }
-  },
   "routes": [
     {
       "src": "/api/s",
