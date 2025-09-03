@@ -4,13 +4,13 @@ import fs from 'fs/promises';
 import { BadgeGenerator } from './api/badge-generator.js';
 
 async function generateBadges(limit = null) {
-    console.log('🚀 Generating Simple Icons badges...');
+    console.log('Generating Simple Icons badges...');
     
     const generator = new BadgeGenerator();
     const allIcons = generator.getAllAvailableIcons();
     
     const iconsToGenerate = limit ? allIcons.slice(0, limit) : allIcons;
-    console.log(`📋 Generating ${iconsToGenerate.length} badges${limit ? ` (limited to ${limit})` : ''}`);
+    console.log(`Generating ${iconsToGenerate.length} badges${limit ? ` (limited to ${limit})` : ''}`);
     
     // Create public directory structure
     await fs.mkdir('public', { recursive: true });
@@ -32,25 +32,17 @@ async function generateBadges(limit = null) {
                     await fs.writeFile(`public/badges/${filename}`, svg);
                     generated++;
                 } else {
-                    console.error(`❌ Error generating badge for ${icon.slug}: Icon not found`);
+                    console.error(`Error generating badge for ${icon.slug}: Icon not found`);
                 }
             } catch (error) {
-                console.error(`❌ Error generating badge for ${icon.slug}:`, error.message);
+                console.error(`Error generating badge for ${icon.slug}:`, error.message);
             }
         }));
         
-        console.log(`📝 Generated ${Math.min(generated, iconsToGenerate.length)}/${iconsToGenerate.length} badges...`);
+        console.log(`Generated ${Math.min(generated, iconsToGenerate.length)}/${iconsToGenerate.length} badges...`);
     }
     
-    // Copy index.html to public directory
-    try {
-        await fs.copyFile('index.html', 'public/index.html');
-        console.log('📄 Copied index.html to public directory');
-    } catch (error) {
-        console.log('ℹ️  index.html not found, skipping copy');
-    }
-    
-    console.log(`✅ Successfully generated ${generated} badges!`);
+    console.log(`Successfully generated ${generated} badges!`);
 }
 
 // Parse command line arguments
