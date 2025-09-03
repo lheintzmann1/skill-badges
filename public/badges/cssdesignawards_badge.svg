@@ -1,0 +1,12 @@
+<svg width="207" height="30" viewBox="0 0 207 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="207" height="30" rx="15" fill="#280FEE"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="m7.46.93-7.46 7.38 3.73 3.73 3.74 3.65 3.73 3.65 3.74-3.65-7.47-7.38 7.47-7.4zm5.33 3.73-3.67 3.65 7.39 7.38-7.46 7.4h7.46l3.76-3.66 3.73-3.73-3.73-3.65-3.74-3.73z"/>
+  </g>
+  <text x="119.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">CSS Design Awards</text>
+</svg>

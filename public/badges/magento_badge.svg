@@ -1,0 +1,12 @@
+<svg width="123" height="30" viewBox="0 0 123 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="123" height="30" rx="15" fill="#EE672F"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M12 24l-4.455-2.572v-12l2.97-1.715v12.001l1.485.902 1.485-.902V7.713l2.971 1.715v12L12 24zM22.391 6v12l-2.969 1.714V7.713L12 3.43 4.574 7.713v12.001L1.609 18V6L12 0l10.391 6z"/>
+  </g>
+  <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Magento</text>
+</svg>

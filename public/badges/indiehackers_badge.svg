@@ -1,0 +1,12 @@
+<svg width="173" height="30" viewBox="0 0 173 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="173" height="30" rx="15" fill="#0E2439"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M0 0h24v24H0V0Zm5.4 17.2h2.4V6.8H5.4v10.4Zm4.8 0h2.4v-4h3.6v4h2.4V6.8h-2.4v4h-3.6v-4h-2.4v10.4Z"/>
+  </g>
+  <text x="102.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Indie Hackers</text>
+</svg>

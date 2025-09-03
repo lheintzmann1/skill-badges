@@ -1,0 +1,12 @@
+<svg width="131" height="30" viewBox="0 0 131 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="131" height="30" rx="15" fill="#FB1911"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M21.072 8.042C21.072 3.612 16.981 0 12 0 6.991 0 2.928 3.612 2.928 8.042S6.99 16.085 12 16.085c.282 0 .564-.029.847-.043.62.339.747.706.761.988.142 1.608-2.44 5.08-4.303 6.49l.254.48c.113-.028 10.723-3.47 11.429-15.026.056-.283.07-.565.084-.875v-.043z"/>
+  </g>
+  <text x="81.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Monoprix</text>
+</svg>

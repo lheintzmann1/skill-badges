@@ -9,7 +9,7 @@
     "build:limited": "node generate.js --limit=100",
     "dev": "vercel dev",
     "deploy": "vercel --prod",
-    "clean": "rimraf badges/*.svg",
+    "clean": "rimraf public/badges/*.svg",
     "test": "node generate.js --limit=10"
   },
   "dependencies": {

@@ -1,0 +1,12 @@
+<svg width="148" height="30" viewBox="0 0 148 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="148" height="30" rx="15" fill="#D0072A"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M19.178.001h-4.432L12.05 13.988 9.309.001H4.856c.216.219.334.634.39 1.072v21.21c0 .621-.105 1.383-.425 1.717 1.014-.214 2.307-.416 3.414-.611V9.375l2.489 12.375c.07.46.135 1.084-.021 1.198.847-.129 1.694-.252 2.544-.366-.105-.16-.064-.652-.005-1.061L15.696 9.15v13.095c1.054-.123 2.366-.24 3.47-.349l.012-.008c-.324-.328-.43-1.1-.43-1.724V1.726c0-.627.105-1.396.43-1.726v.001z"/>
+  </g>
+  <text x="90" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">The Mighty</text>
+</svg>

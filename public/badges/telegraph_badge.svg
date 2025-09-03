@@ -1,0 +1,12 @@
+<svg width="140" height="30" viewBox="0 0 140 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+  <rect width="140" height="30" rx="15" fill="#FAFAFA"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#000000">
+    <path d="M0 0v24h24V0H0zm6 6h12v3h-4.5v9h-3V9H6V6Z"/>
+  </g>
+  <text x="85.80000000000001" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#000000" text-anchor="middle">Telegraph</text>
+</svg>
