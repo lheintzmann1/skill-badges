@@ -14,67 +14,50 @@ Generate beautiful SVG skill badges using official brand colors and icons from [
 - **Fast Generation** - Optimized for performance
 - **CORS Enabled** - Works from any domain
 
-## API Endpoints
+## Usage Examples
 
-### Generate Badge
+### Single Badges
 
-```http
-GET /api/badge?icon={slug}&name={display_name}&color={hex_color}
+#### HTML Example
+
+```html
+<img src="https://skill-badges.vercel.app/api/badge?icon=javascript&name=JavaScript" alt="JavaScript" />
+<img src="https://skill-badges.vercel.app/api/badge?icon=react&name=React" alt="React" />
 ```
 
-**Parameters:**
+<img src="https://skill-badges.vercel.app/api/badge?icon=javascript&name=JavaScript" alt="JavaScript" />
+<img src="https://skill-badges.vercel.app/api/badge?icon=react&name=React" alt="React" />
 
-- `icon` (required): Icon slug from Simple Icons
-- `name` (optional): Display name for the badge
-- `color` (optional): Custom hex color (without #)
+#### Markdown Example
 
-**Examples:**
-
-```http
-/api/badge?icon=javascript&name=JavaScript
-/api/badge?icon=react&name=React&color=ff6b6b
-/api/badge?icon=python
+```markdown
+![JavaScript](https://skill-badges.vercel.app/api/badge?icon=javascript&name=JavaScript)
+![React](https://skill-badges.vercel.app/api/badge?icon=react&name=React)
 ```
 
-### Generate Skills Grid
+![JavaScript](https://skill-badges.vercel.app/api/badge?icon=javascript&name=JavaScript)
+![React](https://skill-badges.vercel.app/api/badge?icon=react&name=React)
 
-```http
-GET /api/s?c={skills}&cols={columns}&gap={pixels}
+### Badges Grid
+
+#### HTML Example
+```html
+<img src="https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker" alt="Tech Stack" />
+<img src="https://skill-badges.vercel.app/api/s?c=javascript,typescript,vue,nuxt&cols=2" alt="Frontend Skills" />
 ```
 
-**Parameters:**
+<img src="https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker" alt="Tech Stack" />
+<img src="https://skill-badges.vercel.app/api/s?c=javascript,typescript,vue,nuxt&cols=2" alt="Frontend Skills" />
 
-- `c` (required): Comma-separated list of skill slugs
-- `cols` (optional): Number of columns (default: 4)
-- `gap` (optional): Gap between badges in pixels (default: 8)
+#### Markdown Example
 
-**Examples:**
-
-```http
-/api/s?c=python,react,nodejs,docker
-/api/s?c=javascript,typescript,vue,nuxt,tailwindcss,mongodb&cols=3
-/api/s?c=python,django,postgresql,redis,docker,kubernetes&cols=2&gap=12
+```markdown
+![Tech Stack](https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker)
+![Frontend Skills](https://skill-badges.vercel.app/api/s?c=javascript,typescript,vue,nuxt&cols=2)
 ```
 
-### List All Icons
-
-```http
-GET /api/list?limit={number}
-```
-
-**Parameters:**
-
-- `limit` (optional): Maximum number of results
-
-### Search Icons
-
-```http
-GET /api/search?q={query}
-```
-
-**Parameters:**
-
-- `q` (required): Search term
+![Tech Stack](https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker)
+![Frontend Skills](https://skill-badges.vercel.app/api/s?c=javascript,typescript,vue,nuxt&cols=2)
 
 ## Local Development
 
@@ -87,7 +70,7 @@ GET /api/search?q={query}
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/skill-badges.git
+git clone https://github.com/lheintzmann1/skill-badges.git
 cd skill-badges
 
 # Install dependencies
@@ -103,62 +86,8 @@ npm run dev
 ### Generate All Badges
 
 ```bash
-# Generate all 3296+ badges
+# Generate all 3300+ badges
 node generate-all.js
-```
-
-## Usage Examples
-
-### Single Badges
-
-#### HTML Example
-
-```html
-<img src="https://your-api-url/api/badge?icon=javascript&name=JavaScript" alt="JavaScript" />
-<img src="https://your-api-url/api/badge?icon=react&color=61dafb" alt="React" />
-```
-
-#### Markdown Example
-
-```markdown
-![JavaScript](https://your-api-url/api/badge?icon=javascript&name=JavaScript)
-![React](https://your-api-url/api/badge?icon=react&color=61dafb)
-```
-
-### Skills Grid
-
-#### HTML Grid Example
-
-```html
-<img src="https://your-api-url/api/s?c=python,react,nodejs,docker" alt="Tech Stack" />
-<img src="https://your-api-url/api/s?c=javascript,typescript,vue,nuxt&cols=2" alt="Frontend Skills" />
-```
-
-#### Markdown Grid Example
-
-```markdown
-![Tech Stack](https://your-api-url/api/s?c=python,react,nodejs,docker)
-![Frontend Skills](https://your-api-url/api/s?c=javascript,typescript,vue,nuxt&cols=2)
-```
-
-#### For GitHub Profile README
-
-```markdown
-## 🚀 Tech Stack
-
-![Skills](https://skill-badges.vercel.app/api/s?c=python,django,postgresql,redis,docker,kubernetes&cols=3)
-
-## 💻 Frontend Technologies
-
-![Frontend](https://skill-badges.vercel.app/api/s?c=react,nextjs,typescript,tailwindcss&cols=2)
-```
-
-### CSS
-
-```css
-.skill-badge {
-  background-image: url('https://your-api-url/api/badge?icon=nodejs&name=Node.js');
-}
 ```
 
 ## License
@@ -169,7 +98,6 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 - [Simple Icons](https://simpleicons.org) for providing the amazing icon collection
 - [JetBrains Mono](https://www.jetbrains.com/mono/) for the beautiful monospace font
-- [Vercel](https://vercel.com) for the hosting platform
 
 ## Contributing
 
