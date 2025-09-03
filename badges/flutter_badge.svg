@@ -1,14 +1,14 @@
-<svg width="122" height="30" viewBox="0 0 122 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="123" height="30" viewBox="0 0 123 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
     </style>
   </defs>
 
-  <rect width="122" height="30" rx="15" fill="#02569B"/>
+  <rect width="123" height="30" rx="15" fill="#02569B"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <g><path d="M12.3 64.2L76.3 0h39.4L32.1 83.6zM76.3 128h39.4L81.6 93.9l34.1-34.8H76.3L42.2 93.5z"/></g><path d="M81.6 93.9l-20-20-19.4 19.6 19.4 19.6z"/><path d="M115.7 128L81.6 93.9l-20 19.2L76.3 128z"/><linearGradient id="flutter-original-a" gradientUnits="userSpaceOnUse" x1="59.365" y1="116.36" x2="86.825" y2="99.399"><stop offset="0" stop-color="#1b4e94"/><stop offset=".63" stop-color="#1a5497"/><stop offset="1" stop-color="#195a9b"/></linearGradient><path d="M61.6 113.1l30.8-8.4-10.8-10.8z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M14.314 0L2.3 12 6 15.7 21.684.013h-7.357zm.014 11.072L7.857 17.53l6.47 6.47H21.7l-6.46-6.468 6.46-6.46h-7.37z"/>
   </g>
   
   <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Flutter</text>

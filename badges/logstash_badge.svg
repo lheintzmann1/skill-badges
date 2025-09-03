@@ -7,10 +7,8 @@
 
   <rect width="131" height="30" rx="15" fill="#005571"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M72 128h44V80H72Zm0 0"/>
-    <path d="M12 0H8v80h52V48C60 21.488 38.508 0 12 0"/>
-    <path d="M8 80c0 26.508 21.492 48 48 48h4V80Zm0 0"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M13.745 24h8.291v-9.164h-8.29zm-2.618 0h.437v-9.164h-9.6A9.163 9.163 0 0011.127 24m.438-9.164h-9.6V0h.873a8.727 8.727 0 018.727 8.727z"/>
   </g>
   
   <text x="81.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Logstash</text>

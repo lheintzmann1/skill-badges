@@ -1,14 +1,14 @@
-<svg width="97" height="30" viewBox="0 0 97 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="98" height="30" viewBox="0 0 98 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
     </style>
   </defs>
 
-  <rect width="97" height="30" rx="15" fill="#FF8700"/>
+  <rect width="98" height="30" rx="15" fill="#087CFA"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M47.543 14.629 14.629 47.543l32.414 32.414V47.043h32.914L47.543 14.629zm.5 33.414v31.914h31.914V48.043H48.043zm32.914 0v32.914H48.043l32.414 32.414 32.914-32.914-32.414-32.414z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M8 0 0 8l8 8V8h8zm8 8v8H8l8 8 8-8z"/>
   </g>
   
   <text x="64.8" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Ktor</text>

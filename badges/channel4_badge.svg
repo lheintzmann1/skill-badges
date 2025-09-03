@@ -1,0 +1,15 @@
+<svg width="140" height="30" viewBox="0 0 140 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="140" height="30" rx="15" fill="#AAFF89"/>
+  
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#000000">
+    <path d="m14.309 0-.33.412v4.201l2.382-2.95zm-1.155 1.201L10.707 4.22v8.674h2.447zm3.268 1.701-2.443 3.02v14.81h2.443zM9.887 5.236l-6.201 7.657h3.142L9.887 9.12Zm-6.766 8.48v2.444h10.033v-2.443Zm14.125 0v2.444h3.633v-2.443Zm-6.539 3.268V24h2.443v-7.016Zm-3.271 4.573V24h2.443v-2.443zm6.543 0V24h5.189v-2.443z"/>
+  </g>
+  
+  <text x="85.80000000000001" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#000000" text-anchor="middle">Channel 4</text>
+</svg>

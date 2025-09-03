@@ -1,14 +1,14 @@
-<svg width="139" height="30" viewBox="0 0 139 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="140" height="30" viewBox="0 0 140 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
     </style>
   </defs>
 
-  <rect width="139" height="30" rx="15" fill="#319795"/>
+  <rect width="140" height="30" rx="15" fill="#319795"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M64 0C28.65 0 0 28.65 0 64s28.65 64 64 64 64-28.65 64-64S99.35 0 64 0Zm29.56 57.9-.02.02-.01.01-49.13 46.38c-.2.2-.48.32-.79.32a1.129 1.129 0 0 1-.9-1.81s22.69-31.38 23.15-32c.46-.63 1.13-1.71-.75-1.71H35.14a.96.96 0 0 1-.96-.96c0-.27.12-.52.3-.69s43.94-43.77 43.94-43.77a1.082 1.082 0 0 1 1.84.77c0 .17-.04.32-.11.46s-15.5 28.27-16.11 29.4c-.61 1.13-.89 2.04.82 2.04h28.02a.913.913 0 0 1 .67 1.54Z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M12 0C5.352 0 0 5.352 0 12s5.352 12 12 12 12-5.352 12-12S18.648 0 12 0zm2.8 4.333c.13-.004.248.136.171.278l-3.044 5.58a.187.187 0 00.164.276h5.26c.17 0 .252.207.128.323l-9.22 8.605c-.165.154-.41-.063-.278-.246l4.364-6.021a.187.187 0 00-.151-.296H6.627a.187.187 0 01-.131-.32l8.18-8.123a.182.182 0 01.125-.056z"/>
   </g>
   
   <text x="85.80000000000001" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Chakra UI</text>

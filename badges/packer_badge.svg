@@ -5,10 +5,10 @@
     </style>
   </defs>
 
-  <rect width="114" height="30" rx="15" fill="#1DAEFF"/>
+  <rect width="114" height="30" rx="15" fill="#02A8EF"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M66.354 39.617V128l-41.482-23.963v-88.39Zm0 0"/><path d="M86.893 25.975 41.801 0v18.044L72.46 35.75v54.119l14.433 8.269c8.934 5.158 16.236 2.066 16.236-6.863V51.592c0-8.933-7.302-20.459-16.235-25.617zm0 0"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M7.844 0v3.38l5.75 3.32v10.148l2.705 1.552c1.676.967 3.045.388 3.045-1.285V9.668c-.014-1.687-1.382-3.832-3.059-4.799L7.844 0zM4.656 2.932v16.574L12.436 24V7.426l-7.78-4.494Z"/>
   </g>
   
   <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Packer</text>

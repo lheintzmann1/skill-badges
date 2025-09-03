@@ -7,9 +7,9 @@
 
   <rect width="106" height="30" rx="15" fill="#60A5FA"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M64 8.584 35.487 57.967a64.358 64.358 0 0 1 33.735-1.17l9.635 2.27-9.054 38.429-9.665-2.261c-11.855-2.802-23.23 3.421-28.053 13.356l-8.924-4.312C29.964 90.222 46 81.719 62.429 85.6l4.522-19.159A54.419 54.419 0 0 0 20.67 76.736 54.469 54.469 0 0 0 0 119.416h128zm0 0"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="m12 1.608-5.346 9.259a12.069 12.069 0 0 1 6.326-.219l1.807.426-1.7 7.208-1.809-.427c-2.224-.524-4.361.644-5.264 2.507l-1.672-.809c1.276-2.636 4.284-4.232 7.364-3.505l.847-3.592A10.211 10.211 0 0 0 0 22.392h24L12 1.608Z"/>
   </g>
   
-  <text x="69.0" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Biome</text>
+  <text x="69" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Biome</text>
 </svg>

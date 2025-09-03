@@ -1,14 +1,14 @@
-<svg width="122" height="30" viewBox="0 0 122 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="123" height="30" viewBox="0 0 123 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
     </style>
   </defs>
 
-  <rect width="122" height="30" rx="15" fill="#4353FF"/>
+  <rect width="123" height="30" rx="15" fill="#146EF5"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M.994.994v126.012h126.012V.994H.994zm71.92 41.715s3.988 30.056 3.988 31.443l5.785-18.12h-.04c2.552-6.86 7.579-13.323 17.152-13.323l-13.563 32.75a18.428 18.318 0 01-17.549 12.809s-3.99-28.153-3.99-28.788l-5.982 15.465c-2.673 6.86-7.857 13.323-17.43 13.323l-7.5-45.518a14.918 14.829 0 0114.479 13.44s.998 16.693.998 18.001l7.06-18.16c2.553-6.86 7.418-13.322 16.592-13.322z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="m24 4.515-7.658 14.97H9.149l3.205-6.204h-.144C9.566 16.713 5.621 18.973 0 19.485v-6.118s3.596-.213 5.71-2.435H0V4.515h6.417v5.278l.144-.001 2.622-5.277h4.854v5.244h.144l2.72-5.244H24Z"/>
   </g>
   
   <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Webflow</text>

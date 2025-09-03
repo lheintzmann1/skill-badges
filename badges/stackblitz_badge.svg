@@ -5,11 +5,11 @@
     </style>
   </defs>
 
-  <rect width="148" height="30" rx="15" fill="#1389FD"/>
+  <rect width="148" height="30" rx="15" fill="#1269D3"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M20 75.294h37.877L35.597 128 108 52.706H70.123L92.403 0 20 75.294Z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M10.797 14.182H3.635L16.728 0l-3.525 9.818h7.162L7.272 24l3.524-9.818Z"/>
   </g>
   
-  <text x="90.0" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">StackBlitz</text>
+  <text x="90" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">StackBlitz</text>
 </svg>

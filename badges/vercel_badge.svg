@@ -7,8 +7,8 @@
 
   <rect width="114" height="30" rx="15" fill="#000000"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M64.002 8.576 128 119.424H0Zm0 0"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M24 22.525H0l12-21.05 12 21.05z"/>
   </g>
   
   <text x="73.2" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Vercel</text>

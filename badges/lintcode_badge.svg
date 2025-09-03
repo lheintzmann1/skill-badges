@@ -1,0 +1,15 @@
+<svg width="131" height="30" viewBox="0 0 131 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="131" height="30" rx="15" fill="#13B4FF"/>
+  
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M11.11 0 5.064 10.467l4.797 6.142 1.322-2.289-3.149-4.032 4.722-8.184A902.354 902.354 0 0 0 11.11 0Zm3.029 7.391L12.817 9.68l3.148 4.032-4.721 8.184c.546.703 1.095 1.404 1.646 2.104l6.045-10.469-4.796-6.14Z"/>
+  </g>
+  
+  <text x="81.6" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">LintCode</text>
+</svg>

@@ -1,97 +1,176 @@
-# Skill Badges API
+# Simple Icons Skill Badges
 
-A REST API service for generating high-quality SVG skill badges with icons. Generate beautiful, consistent badge grids for programming languages, frameworks, tools, and technologies on-demand via API endpoints.
+Generate beautiful SVG skill badges using official brand colors and icons from [Simple Icons](https://simpleicons.org).
 
-![Example Badge Grid](https://skill-badges.vercel.app/api/s?c=python,javascript,react,nodejs,docker&perline=5)
+[![License](https://img.shields.io/github/license/lheintzmann1/skill-badges)](LICENSE)
 
-## Live API
+## Features
 
-**Base URL**: `https://skill-badges.vercel.app`
-
-Try it now: [https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker](https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker)
+- **3300+ Icons Available** - All Simple Icons with official brand colors
+- **Skills Grid Generation** - Create organized grids of multiple skill badges
+- **REST API** - Easy integration with any project
+- **SVG Format** - Scalable vector graphics
+- **Official Colors** - Authentic brand colors from Simple Icons
+- **Fast Generation** - Optimized for performance
+- **CORS Enabled** - Works from any domain
 
 ## API Endpoints
 
-### Static Badge Grids (`/api/s`)
+### Generate Badge
 
-Generate static badge grids with consistent caching.
-
-**Endpoint**: `GET /api/s`
-
-**Parameters**:
-
-- `c` (required): Comma-separated list of badge names
-- `perline` (optional): Number of badges per line (default: 4, max: 20)
-
-**Examples**:
-
-```url
-# Single line with 5 badges
-/api/s?c=python,javascript,react,nodejs,docker&perline=5
-
-# Multi-line grid (4 badges per line)
-/api/s?c=python,javascript,react,nodejs,docker,aws,git,linux
-
-# Custom layout (3 per line)
-/api/s?c=python,react,nodejs,docker,aws,kubernetes&perline=3
+```http
+GET /api/badge?icon={slug}&name={display_name}&color={hex_color}
 ```
 
-### Dynamic Badge Grids (`/api/d`)
+**Parameters:**
 
-Future-enhanced badges with shorter cache times for real-time data.
+- `icon` (required): Icon slug from Simple Icons
+- `name` (optional): Display name for the badge
+- `color` (optional): Custom hex color (without #)
 
-**Endpoint**: `GET /api/d`
+**Examples:**
 
-**Parameters**: Same as `/api/s`
+```http
+/api/badge?icon=javascript&name=JavaScript
+/api/badge?icon=react&name=React&color=ff6b6b
+/api/badge?icon=python
+```
 
-**Future Features**:
+### Generate Skills Grid
 
-- Real-time GitHub stats
-- npm download counts
-- Custom themes
-- User-specific collections
+```http
+GET /api/s?c={skills}&cols={columns}&gap={pixels}
+```
+
+**Parameters:**
+
+- `c` (required): Comma-separated list of skill slugs
+- `cols` (optional): Number of columns (default: 4)
+- `gap` (optional): Gap between badges in pixels (default: 8)
+
+**Examples:**
+
+```http
+/api/s?c=python,react,nodejs,docker
+/api/s?c=javascript,typescript,vue,nuxt,tailwindcss,mongodb&cols=3
+/api/s?c=python,django,postgresql,redis,docker,kubernetes&cols=2&gap=12
+```
+
+### List All Icons
+
+```http
+GET /api/list?limit={number}
+```
+
+**Parameters:**
+
+- `limit` (optional): Maximum number of results
+
+### Search Icons
+
+```http
+GET /api/search?q={query}
+```
+
+**Parameters:**
+
+- `q` (required): Search term
+
+## Local Development
+
+### Prerequisites
+
+- Node.js 18+
+- npm or yarn
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/skill-badges.git
+cd skill-badges
+
+# Install dependencies
+npm install
+
+# Generate all badges locally
+npm run build
+
+# Start development server
+npm run dev
+```
+
+### Generate All Badges
+
+```bash
+# Generate all 3296+ badges
+node generate-all.js
+```
 
 ## Usage Examples
 
-### Markdown Integration
+### Single Badges
 
-```markdown
-![My Skills](https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker&perline=4)
-```
-
-![My Skills](https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker&perline=4)
-
-### HTML Integration
+#### HTML Example
 
 ```html
-<img src="https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker&perline=4" 
-     alt="My Skills">
+<img src="https://your-api-url/api/badge?icon=javascript&name=JavaScript" alt="JavaScript" />
+<img src="https://your-api-url/api/badge?icon=react&color=61dafb" alt="React" />
 ```
 
-<img src="https://skill-badges.vercel.app/api/s?c=python,react,nodejs,docker&perline=4" alt="My Skills">
+#### Markdown Example
 
-## Available Badges
+```markdown
+![JavaScript](https://your-api-url/api/badge?icon=javascript&name=JavaScript)
+![React](https://your-api-url/api/badge?icon=react&color=61dafb)
+```
 
-This project includes badges for 300+ technologies including:
+### Skills Grid
 
-Complete list available at: <https://skill-badges.vercel.app/api/list>
+#### HTML Grid Example
 
-## Credits
+```html
+<img src="https://your-api-url/api/s?c=python,react,nodejs,docker" alt="Tech Stack" />
+<img src="https://your-api-url/api/s?c=javascript,typescript,vue,nuxt&cols=2" alt="Frontend Skills" />
+```
 
-- **[m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges)** (GPL v3) - Original concept and design inspiration
-- **[Devicon](https://github.com/devicons/devicon)** (MIT License) - High-quality icons
-- **[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono)** (OFL 1.1) - Beautiful monospace font
+#### Markdown Grid Example
 
-## Roadmap
+```markdown
+![Tech Stack](https://your-api-url/api/s?c=python,react,nodejs,docker)
+![Frontend Skills](https://your-api-url/api/s?c=javascript,typescript,vue,nuxt&cols=2)
+```
 
-- [x] ~~REST API for on-demand badge creation~~
-- [ ] Licenses badges
-- [ ] Dynamic badges (stars, forks, issues, downloads, and so on...)
+#### For GitHub Profile README
 
-## Contributing
+```markdown
+## 🚀 Tech Stack
 
-Contributions are welcome! Please open an issue or pull request for suggestions and improvements.
+![Skills](https://skill-badges.vercel.app/api/s?c=python,django,postgresql,redis,docker,kubernetes&cols=3)
+
+## 💻 Frontend Technologies
+
+![Frontend](https://skill-badges.vercel.app/api/s?c=react,nextjs,typescript,tailwindcss&cols=2)
+```
+
+### CSS
+
+```css
+.skill-badge {
+  background-image: url('https://your-api-url/api/badge?icon=nodejs&name=Node.js');
+}
+```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Simple Icons](https://simpleicons.org) for providing the amazing icon collection
+- [JetBrains Mono](https://www.jetbrains.com/mono/) for the beautiful monospace font
+- [Vercel](https://vercel.com) for the hosting platform
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.

@@ -1,14 +1,14 @@
-<svg width="122" height="30" viewBox="0 0 122 30" xmlns="http://www.w3.org/2000/svg">
+<svg width="123" height="30" viewBox="0 0 123 30" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
     </style>
   </defs>
 
-  <rect width="122" height="30" rx="15" fill="#1563FF"/>
+  <rect width="123" height="30" rx="15" fill="#1868F2"/>
   
-  <g transform="translate(16, 5.0) scale(0.15625)" fill="#ffffff">
-    <path d="M122.51 23.9V12.82l-26.6 15.47v9.35L74.64 83.55l-10.65 7.33v33.61l22.81-13.15 35.71-87.44zM63.99 66.94L48.04 29.71V19.18l-.11-.05-15.85 9.16v9.35l21.28 47.92 10.63-5.26V66.94z"/><path d="M106.56 3.51L79.97 19.08l-.02-.01V29.71L63.99 66.94v12.45l-10.63 6.17-21.28-47.92v-9.37l15.97-9.18-26.6-15.58-15.96 9.31v11.41l35.91 87.21 22.59 13.05V91.73l10.65-6.17-.14-.08 21.41-47.84v-9.35l.01-.02 26.59-15.45-15.95-9.31z"/>
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M3.556 0L.392 1.846V4.11l7.124 17.3L11.998 24l4.523-2.611 7.083-17.345V1.848l.004-.002L20.44 0l-5.274 3.087v2.111l-3.168 7.384-3.164-7.384V3.109l-.017-.008.017-.01z"/>
   </g>
   
   <text x="77.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Vagrant</text>

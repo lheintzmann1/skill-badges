@@ -1,0 +1,15 @@
+<svg width="165" height="30" viewBox="0 0 165 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+    </style>
+  </defs>
+
+  <rect width="165" height="30" rx="15" fill="#57BCAD"/>
+  
+  <g transform="translate(16, 5) scale(0.8333333333333334)" fill="#ffffff">
+    <path d="M0 12v10.56h12L18 12h6V1.44H12L6 12Z"/>
+  </g>
+  
+  <text x="98.4" y="19.9" font-family="JetBrains Mono, monospace" font-size="14" font-weight="800" fill="#ffffff" text-anchor="middle">Salt Project</text>
+</svg>
