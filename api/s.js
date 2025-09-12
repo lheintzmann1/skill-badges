@@ -130,7 +130,10 @@ class GridGenerator {
         // Remove the outer <svg> tag and extract the inner content
         const match = svgString.match(/<svg[^>]*>(.*)<\/svg>/s);
         if (match) {
-            return match[1].trim();
+            let content = match[1].trim();
+            // Remove any nested <defs> elements to avoid duplication
+            content = content.replace(/<defs>[\s\S]*?<\/defs>/g, '');
+            return content;
         }
         return svgString;
     }
