@@ -84,13 +84,14 @@ class GridGenerator {
 
         // Calculate grid dimensions
         const rows = Math.ceil(badges.length / cols);
+        const actualCols = Math.min(badges.length, cols);
         
         // Find the maximum badge dimensions for consistent spacing
         const maxWidth = Math.max(...badges.map(b => b.width));
         const maxHeight = Math.max(...badges.map(b => b.height));
         
         // Calculate total grid dimensions
-        const totalWidth = (maxWidth * cols) + (gap * (cols - 1));
+        const totalWidth = (maxWidth * actualCols) + (gap * (actualCols - 1));
         const totalHeight = (maxHeight * rows) + (gap * (rows - 1));
         
         // Generate SVG
