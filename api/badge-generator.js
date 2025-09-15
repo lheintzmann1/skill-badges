@@ -17,6 +17,16 @@ export class BadgeGenerator {
         return text.length * charWidth;
     }
 
+    escapeXml(text) {
+        // Escape XML special characters to prevent parsing errors
+        return text
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;')
+            .replace(/'/g, '&#39;');
+    }
+
     getTextColor(bgColor) {
         // Convert hex to RGB
         const hexColor = bgColor.replace('#', '');
@@ -91,18 +101,20 @@ export class BadgeGenerator {
         const textX = this.padding + this.iconSize + this.textPadding + (textWidth / 2);
         const textY = this.height / 2 + (this.fontSize * 0.35);
         
-        // SVG template
+        // SVG template - Using font fallback in CSS to avoid XML quote issues
+        const escapedDisplayName = this.escapeXml(displayName);
         return `<svg width="${Math.round(totalWidth)}" height="${this.height}" viewBox="0 0 ${Math.round(totalWidth)} ${this.height}" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+      .badge-text { font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Monaco, Inconsolata, 'Roboto Mono', 'Source Code Pro', monospace; }
     </style>
   </defs>
   <rect width="${Math.round(totalWidth)}" height="${this.height}" rx="${this.borderRadius}" fill="${badgeColor}"/>
   <g transform="translate(${this.padding}, ${(this.height - this.iconSize) / 2}) scale(${this.iconSize / 24})" fill="${textColor}">
     <path d="${icon.path}"/>
   </g>
-  <text x="${textX}" y="${textY}" font-family="JetBrains Mono, monospace" font-size="${this.fontSize}" font-weight="800" fill="${textColor}" text-anchor="middle">${displayName}</text>
+  <text x="${textX}" y="${textY}" class="badge-text" font-size="${this.fontSize}" font-weight="800" fill="${textColor}" text-anchor="middle">${escapedDisplayName}</text>
 </svg>`;
     }
 

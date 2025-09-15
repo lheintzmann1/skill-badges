@@ -99,6 +99,7 @@ class GridGenerator {
   <defs>
     <style type="text/css">
       @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=swap');
+      .badge-text { font-family: 'JetBrains Mono', ui-monospace, 'SF Mono', Monaco, Inconsolata, 'Roboto Mono', 'Source Code Pro', monospace; }
     </style>
   </defs>`;
 
